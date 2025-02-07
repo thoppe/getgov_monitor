@@ -32,5 +32,8 @@ jobs:
         run: |
          git config user.name github-actions
          git config user.email github-actions@github.com
+
+	 # If no staged changes, bail early
+	 git diff --quiet && git diff --staged --quiet && exit 0
          git commit -m -a "GH Action: Updated from data pull dataset"
          git push
