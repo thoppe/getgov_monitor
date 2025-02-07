@@ -22,6 +22,12 @@ df = df[df["modification"].isin(["added", "deleted", "changed_new"])]
 idx = df["modification"] == "changed_new"
 df.loc[idx, "modification"] = "changed"
 
+
+df.loc[df["modification"]=="added", "modification"] = "✅"
+df.loc[df["modification"]=="deleted", "modification"] = "❌"
+df.loc[df["modification"]=="changed", "modification"] = "✏️"
+
+
 df = df.rename(columns={"commit_datetime": "date"})
 
 keep_cols = ["Domain Name", "Agency", "modification", "date"]
@@ -29,8 +35,6 @@ df = df[keep_cols]
 
 # Fix the URL
 df["Domain Name"] = [f"[{url}](https://{url})" for url in df["Domain Name"]]
-
-
 
 df = df.set_index("Domain Name")
 df["date"] = df["date"].astype(str).str.split(" ").str[0]
