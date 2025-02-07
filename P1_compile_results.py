@@ -4,17 +4,19 @@ from dspipe import Pipe
 data = Pipe("data/changelog/")(pd.read_csv, -1)
 df = pd.concat(data)
 
-# Only keep results after Jan 1st 2025
-# cutoff_date = 1730841600 # Nov 6th 2024
+# Sort by latest
+df = df.sort_values("commit_date", ascending=False)
 
+# Save the results to file
+df.to_csv("data/all_federal_us_domain_changes.csv", index=False)
+
+# Only keep results after a specific date
+# cutoff_date = 1730841600 # Nov 6th 2024
 cutoff_date = 1735689600  # Jan 1st 2025
 df = df[df["commit_date"] >= cutoff_date]
 
 # Drop columns that aren't useful (data changed in early years)
 df = df.dropna(axis=1, how="all")
-
-# Sort by latest
-df = df.sort_values("commit_date", ascending=False)
 
 # Drop changed_old (already counted in changed old)
 df = df[df["modification"].isin(["added", "deleted", "changed_new"])]
@@ -22,9 +24,9 @@ df = df[df["modification"].isin(["added", "deleted", "changed_new"])]
 idx = df["modification"] == "changed_new"
 df.loc[idx, "modification"] = "changed"
 
-df.loc[df["modification"]=="added", "modification"] = "✅"
-df.loc[df["modification"]=="deleted", "modification"] = "❌"
-df.loc[df["modification"]=="changed", "modification"] = "✏️"
+df.loc[df["modification"] == "added", "modification"] = "✅"
+df.loc[df["modification"] == "deleted", "modification"] = "❌"
+df.loc[df["modification"] == "changed", "modification"] = "✏️"
 
 df = df.rename(columns={"commit_datetime": "date"})
 df = df.rename(columns={"modification": ""})

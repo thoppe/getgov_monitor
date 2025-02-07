@@ -12,8 +12,8 @@ Monitors all Federal [US .gov domains](https://get.gov/) for changes. Relies on 
 | [unnpp.gov](https://unnpp.gov)                               | Department of Energy                         | ✏️ | 2025-01-30 |
 | [usitcoig.gov](https://usitcoig.gov)                         | United States International Trade Commission | ✏️ | 2025-01-25 |
 | [ej.gov](https://ej.gov)                                     | Department of the Interior                   | ✏️ | 2025-01-23 |
-| [geoplatform.gov](https://geoplatform.gov)                   | Department of the Interior                   | ✏️ | 2025-01-23 |
 | [environmentaljustice.gov](https://environmentaljustice.gov) | Department of the Interior                   | ✏️ | 2025-01-23 |
+| [geoplatform.gov](https://geoplatform.gov)                   | Department of the Interior                   | ✏️ | 2025-01-23 |
 | [votebymail.gov](https://votebymail.gov)                     | Election Assistance Commission               | ✏️ | 2025-01-22 |
 | [doge.gov](https://doge.gov)                                 | Executive Office of the President            | ✅  | 2025-01-21 |
 | [environmentaljustice.gov](https://environmentaljustice.gov) | Department of the Interior                   | ✏️ | 2025-01-16 |
