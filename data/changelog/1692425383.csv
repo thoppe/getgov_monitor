@@ -1,0 +1,5 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+DNS.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cisa.dhs.gov,changed_old,2023-08-19 06:09:43+00:00,1692425383
+DNS.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cloudflare.com,changed_new,2023-08-19 06:09:43+00:00,1692425383
+NS.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cisa.dhs.gov,changed_old,2023-08-19 06:09:43+00:00,1692425383
+NS.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cloudflare.com,changed_new,2023-08-19 06:09:43+00:00,1692425383

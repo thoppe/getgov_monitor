@@ -1,0 +1,53 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+DD214.GOV,Federal Agency - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,added,2021-09-20 09:43:58-04:00,1632145438
+BROADBAND.GOV,Federal Agency - Executive,Federal Communications Commission,Information Technology Center,Washington,DC,nsoc-monitor@fcc.gov,deleted,2021-09-20 09:43:58-04:00,1632145438
+18F.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+18F.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,"GSA, FAS, eGov Innovation",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+BUSINESSUSA.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+CHALLENGE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+CHALLENGE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+CITIZENSCIENCE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+CITIZENSCIENCE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+CLOUD.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,tts-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+CLOUD.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+CONSUMERACTION.GOV,Federal Agency - Executive,General Services Administration,"GSA, OAS, Enterprise Application Services",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+CONSUMERACTION.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+DATA.GOV,Federal Agency - Executive,General Services Administration,"GSA, FAS, eGov Innovation",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+DATA.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+DIGITAL.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+DIGITAL.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+DIGITALGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+DIGITALGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+FEDINFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+FEDINFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+FEDRAMP.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+FEDRAMP.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+FIRSTGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+FIRSTGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+FORMS.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+FORMS.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+GOBIERNOUSA.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, USA.gov",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+GOBIERNOUSA.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+IDENTITYSANDBOX.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+IDENTITYSANDBOX.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+INFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+INFO.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+INNOVATION.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+INNOVATION.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+KIDS.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+KIDS.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+LOGIN.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,tts-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+LOGIN.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+PLAINLANGUAGE.GOV,Federal Agency - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+PLAINLANGUAGE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+US.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+US.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+USA.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+USA.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+USAGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+USAGOV.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+VOTE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+VOTE.GOV,Federal Agency - Executive,General Services Administration,"GSA, TTS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438
+FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,dotgov@cisa.dhs.gov,changed_old,2021-09-20 09:43:58-04:00,1632145438
+FED.US,Federal Agency - Executive,GOV Domain OPS,GOV Domain OPS,Arlington,VA,dotgov@cisa.dhs.gov,changed_new,2021-09-20 09:43:58-04:00,1632145438

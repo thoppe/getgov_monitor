@@ -1,0 +1,27 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+BROADBANDMAP.GOV,Federal - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,nsoc-monitor@fcc.gov,added,2022-11-17 06:10:20+00:00,1668665420
+PERSUADER-REPORTS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer (OCIO),Washington,DC,moritz.russell@dol.gov,added,2022-11-17 06:10:20+00:00,1668665420
+AMERICORPSOIG.GOV,Federal - Executive,"Corporation for National and Community Service, Office Of Inspector General",AmeriCorps Office of Inspector General,Washington,DC,IT@cncsoig.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+AMERICORPSOIG.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps Office of Inspector General,Washington,DC,IT@cncsoig.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+CNCSOIG.GOV,Federal - Executive,"Corporation for National and Community Service, Office Of Inspector General","Corporation for National and Community Service, Office Of Inspector General,",Washington,DC,IT@cncsoig.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+CNCSOIG.GOV,Federal - Executive,Corporation for National & Community Service,"Corporation for National and Community Service, Office Of Inspector General,",Washington,DC,IT@cncsoig.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+CAP.GOV,Federal - Executive,Civil Air Patrol,"CIVIL AIR PATROL, USAF AUX.",Maxwell AFB,AL,capadmin@capnhq.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+CAP.GOV,Federal - Executive,Department of Defense,"CIVIL AIR PATROL, USAF AUX.",Maxwell AFB,AL,capadmin@capnhq.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+CAPNHQ.GOV,Federal - Executive,Civil Air Patrol,Civil Air Patrol,Maxwell AFB,AL,capadmin@capnhq.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+CAPNHQ.GOV,Federal - Executive,Department of Defense,Civil Air Patrol,Maxwell AFB,AL,capadmin@capnhq.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+INTELLIGENCECAREERS.GOV,Federal - Executive,National Security Agency,National Security Agency,Fort Meade,MD,(blank),changed_old,2022-11-17 06:10:20+00:00,1668665420
+INTELLIGENCECAREERS.GOV,Federal - Executive,Department of Defense,National Security Agency,Fort Meade,MD,(blank),changed_new,2022-11-17 06:10:20+00:00,1668665420
+LPS.GOV,Federal - Executive,National Security Agency,"National Security Agency, Laboratory for Physical Sciences",College Park,MD,(blank),changed_old,2022-11-17 06:10:20+00:00,1668665420
+LPS.GOV,Federal - Executive,Department of Defense,"National Security Agency, Laboratory for Physical Sciences",College Park,MD,(blank),changed_new,2022-11-17 06:10:20+00:00,1668665420
+NNSS.GOV,Federal - Executive,National Nuclear Security Administration,"National Nuclear Security Administration, National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+NNSS.GOV,Federal - Executive,Department of Energy,"National Nuclear Security Administration, National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+STATEOIG.GOV,Federal - Executive,"Department of State, Office of Inspector General",Office of the Inspector General,Arlington,VA,security@stateoig.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+STATEOIG.GOV,Federal - Executive,Department of State,Office of the Inspector General,Arlington,VA,security@stateoig.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+QUANTUM.GOV,Federal - Executive,National Quantum Coordination Office,National Quantum Coordination Office (NQCO) ,Washington,DC,ramia@nitrd.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+QUANTUM.GOV,Federal - Executive,Executive Office of the President,National Quantum Coordination Office (NQCO) ,Washington,DC,ramia@nitrd.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+FHFAOIG.GOV,Federal - Executive,"Federal Housing Finance Agency, Office of Inspector General",Federal Housing Finance Agency Office of Inspector General ,Washington,DC,ReportAbuse@fhfaoig.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+FHFAOIG.GOV,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency Office of Inspector General ,Washington,DC,ReportAbuse@fhfaoig.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+PEACECORPSOIG.GOV,Federal - Executive,"United States Postal Service, Office of Inspector General",Office of Inspector General,Washington,DC,IncidentReport@uspsoig.gov,changed_old,2022-11-17 06:10:20+00:00,1668665420
+PEACECORPSOIG.GOV,Federal - Executive,U.S. Peace Corps,Office of Inspector General,Washington,DC,IncidentReport@uspsoig.gov,changed_new,2022-11-17 06:10:20+00:00,1668665420
+USITCOIG.GOV,Federal - Executive,"United States International Trade Commission, Office of Inspector General",USITC Office of Inspector General,Washington,DC,(blank),changed_old,2022-11-17 06:10:20+00:00,1668665420
+USITCOIG.GOV,Federal - Executive,United States International Trade Commission,USITC Office of Inspector General,Washington,DC,(blank),changed_new,2022-11-17 06:10:20+00:00,1668665420

@@ -1,0 +1,11 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+ENERGYCOMMUNITIES.GOV,Federal Agency - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,CIRC@JC3.DOE.GOV,added,2021-10-04 09:04:49-04:00,1633352689
+PCAST.GOV,Federal Agency - Executive,Department of Energy,U.S. Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,added,2021-10-04 09:04:49-04:00,1633352689
+POWER2PREVENT.GOV,Federal Agency - Executive,Department of Homeland Security,Headquarters,Washington,DC,is2osecurity@hq.dhs.gov,added,2021-10-04 09:04:49-04:00,1633352689
+FEDBIZOPPS.GOV,Federal Agency - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Arlington,VA,gsa-vulnerability-reports@gsa.gov,deleted,2021-10-04 09:04:49-04:00,1633352689
+SSS.GOV,Federal Agency - Executive,Selective Service System,Selective Service System,Arlington,VA,itsupport@sss.gov,changed_old,2021-10-04 09:04:49-04:00,1633352689
+SSS.GOV,Federal Agency - Executive,Selective Service System,Selective Service System,Arlington,VA,soc@sss.gov,changed_new,2021-10-04 09:04:49-04:00,1633352689
+USCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,U.S. Courts,Washington,DC,(blank),changed_old,2021-10-04 09:04:49-04:00,1633352689
+USCOURTS.GOV,Federal Agency - Judicial,U.S. Courts,U.S. Courts,Washington,DC,security@uscourts.gov,changed_new,2021-10-04 09:04:49-04:00,1633352689
+SEN.GOV,Federal Agency - Legislative,United States Senate,US Senate,Washington,DC,(blank),changed_old,2021-10-04 09:04:49-04:00,1633352689
+SEN.GOV,Federal Agency - Legislative,United States Senate,US Senate,Washington,DC,saanoc2@saa.senate.gov,changed_new,2021-10-04 09:04:49-04:00,1633352689

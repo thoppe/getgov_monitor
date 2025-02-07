@@ -1,0 +1,8 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+RPA.GOV,Federal Agency - Executive,General Services Administration,U.S. General Services Administration (GSA),Washington,DC,gsa-vulnerability-reports@gsa.gov,added,2021-08-09 09:55:49-04:00,1628517349
+HUDOIG.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Office of Inspector General,Washington,DC,rramos@hudoig.gov,changed_old,2021-08-09 09:55:49-04:00,1628517349
+HUDOIG.GOV,Federal Agency - Executive,Department of Housing and Urban Development,Office of Inspector General,Washington,DC,INFOSECFederalStaff@hudoig.gov,changed_new,2021-08-09 09:55:49-04:00,1628517349
+MTBS.GOV,Federal Agency - Executive,U.S. Department of Agriculture,USDA Forest Service Remote Sensing Applications Center,Salt Lake City,UT,cyber.incident@usda.gov,changed_old,2021-08-09 09:55:49-04:00,1628517349
+MTBS.GOV,Federal Agency - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov,changed_new,2021-08-09 09:55:49-04:00,1628517349
+FOREIGNASSISTANCE.GOV,Federal Agency - Executive,Department of State,Foreign Assistance Office (F/PPS),Washington,DC,VDPSubmission@state.gov,changed_old,2021-08-09 09:55:49-04:00,1628517349
+FOREIGNASSISTANCE.GOV,Federal Agency - Executive,U.S. Agency for International Development,Foreign Assistance Office (F/PPS),Washington,DC,VDP@usaid.gov,changed_new,2021-08-09 09:55:49-04:00,1628517349

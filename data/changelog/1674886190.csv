@@ -1,0 +1,4 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+GET.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cisa.dhs.gov,added,2023-01-28 06:09:50+00:00,1674886190
+DOTIDEAHUB.GOV,Federal - Executive,Department of Transportation,U.S. Department of Transportation Office of the Chief Information Officer ,Washington,DC,9-awa-soc@faa.gov,changed_old,2023-01-28 06:09:50+00:00,1674886190
+DOTIDEAHUB.GOV,Federal - Executive,Department of Transportation,U.S. Department of Transportation Office of the Chief Information Officer ,Washington,DC,vulnerabilitydisclosure@faa.gov,changed_new,2023-01-28 06:09:50+00:00,1674886190

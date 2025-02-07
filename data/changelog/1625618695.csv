@@ -1,0 +1,19 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+STOPRANSOMWARE.GOV,Federal Agency - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,vulnerability.disclosure.prog@hq.dhs.gov,added,2021-07-06 17:44:55-07:00,1625618695
+HIGHPERFORMANCEBUILDINGS.GOV,Federal Agency - Executive,Department of Energy,"US DOE, EERE",Golden,CO,DL-EEREActioNetWebTeam@ee.doe.gov,deleted,2021-07-06 17:44:55-07:00,1625618695
+CNS.GOV,Federal Agency - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,(blank),changed_old,2021-07-06 17:44:55-07:00,1625618695
+CNS.GOV,Federal Agency - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+AFTAC.GOV,Federal Agency - Executive,Department of Defense,AFTAC,Patrick AFB,FL,(blank),changed_old,2021-07-06 17:44:55-07:00,1625618695
+AFTAC.GOV,Federal Agency - Executive,Department of Defense,AFTAC,Patrick AFB,FL,dco@aftac.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+ALTUSANDC.GOV,Federal Agency - Executive,Department of Defense,aftac,Patrick AFB,FL,(blank),changed_old,2021-07-06 17:44:55-07:00,1625618695
+ALTUSANDC.GOV,Federal Agency - Executive,Department of Defense,aftac,Patrick AFB,FL,dco@aftac.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+USANDC.GOV,Federal Agency - Executive,Department of Defense,AFTAC/LSCSS,Patrick AFB,FL,(blank),changed_old,2021-07-06 17:44:55-07:00,1625618695
+USANDC.GOV,Federal Agency - Executive,Department of Defense,AFTAC/LSCSS,Patrick AFB,FL,dco@aftac.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+BBG.GOV,Federal Agency - Executive,Broadcasting Board of Governors,IBB/VOA/BBG,Washington,DC,it-security@usagm.gov,changed_old,2021-07-06 17:44:55-07:00,1625618695
+BBG.GOV,Federal Agency - Executive,United States Agency for Global Media,IBB/VOA/BBG,Washington,DC,it-security@usagm.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+IBB.GOV,Federal Agency - Executive,Broadcasting Board of Governors,BBG,Washington,DC,it-security@usagm.gov,changed_old,2021-07-06 17:44:55-07:00,1625618695
+IBB.GOV,Federal Agency - Executive,United States Agency for Global Media,BBG,Washington,DC,it-security@usagm.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+USAGM.GOV,Federal Agency - Executive,Broadcasting Board of Governors,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,changed_old,2021-07-06 17:44:55-07:00,1625618695
+USAGM.GOV,Federal Agency - Executive,United States Agency for Global Media,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695
+VOA.GOV,Federal Agency - Executive,Broadcasting Board of Governors,VOA,Washington,DC,it-security@usagm.gov,changed_old,2021-07-06 17:44:55-07:00,1625618695
+VOA.GOV,Federal Agency - Executive,United States Agency for Global Media,VOA,Washington,DC,it-security@usagm.gov,changed_new,2021-07-06 17:44:55-07:00,1625618695

@@ -1,0 +1,23 @@
+Domain Name,Domain Type,Agency,Organization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+forfeiture.gov,Federal - Executive,Department of Justice,"Criminal Division, Asset Forfeiture and Money Laundering Section (AFMLS)",Potomac,MD,Responsible_Disclosure@usdoj.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+forfeiture.gov,Federal - Executive,Department of Justice,Asset Forfeiture Management Staff,Washington DC,DC,Responsible_Disclosure@usdoj.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+bfem.gov,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,domainsecurity@treasury.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+bfem.gov,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+airnow.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+airnow.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+cbi-epa.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,epa-ciso@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+cbi-epa.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+fedcenter.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+fedcenter.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+frtr.gov,Federal - Executive,Environmental Protection Agency,Federal Remediation Roundtable,Omaha,NE,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+frtr.gov,Federal - Executive,Environmental Protection Agency,Federal Remediation Roundtable,Omaha,NE,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+glnpo.gov,Federal - Executive,Environmental Protection Agency,"US EPA, Great Lakes National Program Office",Chicago,IL,INFOSEC@EPA.GOV,changed_old,2024-09-04 14:55:53+00:00,1725461753
+glnpo.gov,Federal - Executive,Environmental Protection Agency,"US EPA, Great Lakes National Program Office",Chicago,IL,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+greengov.gov,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+greengov.gov,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+relocatefeds.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Cincinnati,OH,epa-ciso@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+relocatefeds.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Cincinnati,OH,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+sustainability.gov,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+sustainability.gov,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753
+urbanwaters.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov,changed_old,2024-09-04 14:55:53+00:00,1725461753
+urbanwaters.gov,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,infosec@epa.gov,changed_new,2024-09-04 14:55:53+00:00,1725461753

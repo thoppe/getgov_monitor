@@ -1,0 +1,7 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+MYTREASURY.GOV,Federal Agency - Executive,Department of the Treasury,US Department of Treasury,Washington,DC,domainsecurity@treasury.gov,added,2021-09-13 11:23:54-04:00,1631546634
+E-ENTERPRISE.GOV,Federal Agency - Executive,Environmental Protection Agency,United Sates Environmental Protection Agency,Washington,DC,epa-ciso@epa.gov,deleted,2021-09-13 11:23:54-04:00,1631546634
+TSC.GOV,Federal Agency - Executive,Terrorist Screening Center,Terrorist Screening Center,Washington,DC,(blank),changed_old,2021-09-13 11:23:54-04:00,1631546634
+TSC.GOV,Federal Agency - Executive,Department of Justice,Terrorist Screening Center,Washington,DC,(blank),changed_new,2021-09-13 11:23:54-04:00,1631546634
+FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2021-09-13 11:23:54-04:00,1631546634
+FED.US,Federal Agency - Executive,General Services Administration,GSA,Washington,DC,dotgov@cisa.dhs.gov,changed_new,2021-09-13 11:23:54-04:00,1631546634

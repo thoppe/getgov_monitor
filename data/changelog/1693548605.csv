@@ -1,0 +1,6 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+CRITICALMINERALS.GOV,Federal - Executive,Department of the Interior,US Geological Survey,Reston,VA,security@doi.gov,added,2023-09-01 06:10:05+00:00,1693548605
+FVAP.GOV,Federal - Executive,Department of Defense,Federal Voting Assistance Program,Alexandria,VA,(blank),changed_old,2023-09-01 06:10:05+00:00,1693548605
+FVAP.GOV,Federal - Executive,Department of Defense,Federal Voting Assistance Program,Alexandria,VA,tech@fvap.gov,changed_new,2023-09-01 06:10:05+00:00,1693548605
+FNAL.GOV,Federal - Executive,Department of Energy,Fermi National Accelerator Laboratory,Batavia,IL,security@fnal.gov,changed_old,2023-09-01 06:10:05+00:00,1693548605
+FNAL.GOV,Federal - Executive,Department of Energy,Fermi National Accelerator Laboratory,Batavia,IL,cst@fnal.gov,changed_new,2023-09-01 06:10:05+00:00,1693548605

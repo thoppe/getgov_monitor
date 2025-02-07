@@ -1,0 +1,17 @@
+Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
+CONSUMERSENTINELNETWORK.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,deleted,2022-11-16 06:10:13+00:00,1668579013
+FED.US,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,dotgov@cisa.dhs.gov,deleted,2022-11-16 06:10:13+00:00,1668579013
+PROMESA.GOV,Federal - Executive,Non-Federal Agency,Financial Oversight and Management Board for Puerto Rico,San Juan,Puerto Rico,support@promesa.gov,deleted,2022-11-16 06:10:13+00:00,1668579013
+UCE.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,deleted,2022-11-16 06:10:13+00:00,1668579013
+AMTRAKOIG.GOV,Federal - Executive,AMTRAK,Amtrak Office of Inspector General,Washington,DC,(blank),changed_old,2022-11-16 06:10:13+00:00,1668579013
+AMTRAKOIG.GOV,Federal - Executive,AMTRAK,Office of Inspector General,Washington,DC,(blank),changed_new,2022-11-16 06:10:13+00:00,1668579013
+STATEOIG.GOV,Federal - Executive,"Department of State, Office of Inspector General","Office of the Inspector General, Department of State",Arlington,VA,security@stateoig.gov,changed_old,2022-11-16 06:10:13+00:00,1668579013
+STATEOIG.GOV,Federal - Executive,"Department of State, Office of Inspector General",Office of the Inspector General,Arlington,VA,security@stateoig.gov,changed_new,2022-11-16 06:10:13+00:00,1668579013
+NANO.GOV,Federal - Executive,National Nanotechnology Coordination Office,National Nanotechnology Coordination Office,Arlington,VA,security@nnco.nano.gov,changed_old,2022-11-16 06:10:13+00:00,1668579013
+NANO.GOV,Federal - Executive,Executive Office of the President,National Nanotechnology Coordination Office,Arlington,VA,security@nnco.nano.gov,changed_new,2022-11-16 06:10:13+00:00,1668579013
+NNSS.GOV,Federal - Executive,National Nuclear Security Administration,"National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov,changed_old,2022-11-16 06:10:13+00:00,1668579013
+NNSS.GOV,Federal - Executive,National Nuclear Security Administration,"National Nuclear Security Administration, National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov,changed_new,2022-11-16 06:10:13+00:00,1668579013
+LPS.GOV,Federal - Executive,National Security Agency,Laboratory for Physical Sciences,College Park,MD,(blank),changed_old,2022-11-16 06:10:13+00:00,1668579013
+LPS.GOV,Federal - Executive,National Security Agency,"National Security Agency, Laboratory for Physical Sciences",College Park,MD,(blank),changed_new,2022-11-16 06:10:13+00:00,1668579013
+PEACECORPSOIG.GOV,Federal - Executive,"United States Postal Service, Office of Inspector General","Peace Corps, Office of Inspector General",Washington,DC,IncidentReport@uspsoig.gov,changed_old,2022-11-16 06:10:13+00:00,1668579013
+PEACECORPSOIG.GOV,Federal - Executive,"United States Postal Service, Office of Inspector General",Office of Inspector General,Washington,DC,IncidentReport@uspsoig.gov,changed_new,2022-11-16 06:10:13+00:00,1668579013
