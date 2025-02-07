@@ -26,8 +26,13 @@ df = df.rename(columns={"commit_datetime": "date"})
 
 keep_cols = ["Domain Name", "Agency", "modification", "date"]
 df = df[keep_cols]
-df = df.set_index("Domain Name")
 
+# Fix the URL
+df["Domain Name"] = [f"[{url}](https://{url})" for url in df["Domain Name"]]
+
+
+
+df = df.set_index("Domain Name")
 df["date"] = df["date"].astype(str).str.split(" ").str[0]
 
 table = df.to_markdown()
