@@ -1,0 +1,36 @@
+# yamllint disable rule:line-length rule:document-start
+
+name: parse-data
+'on':
+  push:
+  workflow_dispatch:
+    inputs:
+      logMessage:
+        description: 'Log message'
+        required: true
+        default: 'Test automation'
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  parse-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: Install python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      - name: Install the requirements
+        run: pip install -r requirements.txt
+      - name: Download data
+        run: |
+         python P0_clone_and_extract.py
+         python P1_compile_results.py
+      - name: Commit the results to the repo
+        run: |
+         git config user.name github-actions
+         git config user.email github-actions@github.com
+         git commit -m -a "GH Action: Updated from data pull dataset"
+         git push
