@@ -1,6 +1,6 @@
-# Gov website monitor
+# Federal .gov domain monitor
 
-Monitors all [US .gov domains](https://get.gov/) for changes. Relies on the base repo from [CISA](https://github.com/cisagov/dotgov-data). Updates to Federal .gov since Jan 1st 2025 displayed in the table below (✅, ❌, ✏️ denote an added URL, removed URL, or modified entry respectively).
+Monitors all Federal [US .gov domains](https://get.gov/) for changes. Relies on the base repo from [CISA](https://github.com/cisagov/dotgov-data). Updates to Federal .gov since Jan 1st 2025 displayed in the table below (✅, ❌, ✏️ denote an added URL, removed URL, or modified entry respectively).
 
 ## Federal domain registrar updates
 
