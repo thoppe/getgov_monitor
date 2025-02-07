@@ -29,7 +29,7 @@ df.loc[df["modification"]=="changed", "modification"] = "✏️"
 df = df.rename(columns={"commit_datetime": "date"})
 df = df.rename(columns={"modification": ""})
 
-keep_cols = ["Domain Name", "Agency", "modification", "date"]
+keep_cols = ["Domain Name", "Agency", "", "date"]
 df = df[keep_cols]
 
 # Fix the URL
