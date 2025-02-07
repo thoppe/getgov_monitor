@@ -22,13 +22,12 @@ df = df[df["modification"].isin(["added", "deleted", "changed_new"])]
 idx = df["modification"] == "changed_new"
 df.loc[idx, "modification"] = "changed"
 
-
 df.loc[df["modification"]=="added", "modification"] = "✅"
 df.loc[df["modification"]=="deleted", "modification"] = "❌"
 df.loc[df["modification"]=="changed", "modification"] = "✏️"
 
-
 df = df.rename(columns={"commit_datetime": "date"})
+df = df.rename(columns={"modification": ""})
 
 keep_cols = ["Domain Name", "Agency", "modification", "date"]
 df = df[keep_cols]
