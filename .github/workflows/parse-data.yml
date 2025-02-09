@@ -1,8 +1,6 @@
 # yamllint disable rule:line-length rule:document-start
 
 name: parse-data
-env:
-    GH_PAT: ${{ secrets.GH_PAT }}
 'on':
   push:
   workflow_dispatch:
@@ -37,4 +35,4 @@ jobs:
          git add data
          git add README.md
          git commit --allow-empty -m "GH Action: Updated from data pull dataset"
-         git push https://x-access-token:${GH_PAT}@github.com/thoppe/getgov_monitor.git
+         git push
