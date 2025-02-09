@@ -8,8 +8,8 @@ from dspipe import Pipe
 # Configuration
 USERNAME = "fed-us-domain-bot.bsky.social"
 APP_PASSWORD = os.getenv("BLUESKY_BOT_TOKEN")
+print("HERE", APP_PASSWORD)
 
-print("DEBUG STEP")
 for k,v in os.environ.items():
     print(k, v)
 exit()
