@@ -7,6 +7,20 @@ df = pd.concat(data)
 # Sort by latest
 df = df.sort_values("commit_date", ascending=False)
 
+# Drop the weird column that came into play
+del df["Unnamed: 0"]
+
+# Merge Organization and Organization name
+idx0 = df["Organization"].isna()
+idx1 = df["Organization Name"].isna()
+
+# Make sure we have no overlaps
+assert (~(idx0 + idx1)).sum() == 0
+
+print(df.columns)
+df.loc[~idx1, "Organization"] = df.loc[~idx1, "Organization Name"]
+idx0 = df["Organization"].isna()
+
 # Save the results to file
 df.to_csv("data/all_federal_us_domain_changes.csv", index=False)
 
