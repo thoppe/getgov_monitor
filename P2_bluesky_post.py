@@ -8,13 +8,6 @@ from dspipe import Pipe
 # Configuration
 USERNAME = "fed-us-domain-bot.bsky.social"
 APP_PASSWORD = os.getenv("BLUESKY_BOT_TOKEN")
-print("HERE", len(APP_PASSWORD))
-print(APP_PASSWORD[:-3])
-exit(3)
-
-for k,v in os.environ.items():
-    print(k, v)
-exit()
 
 assert APP_PASSWORD
 

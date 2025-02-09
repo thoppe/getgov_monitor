@@ -40,4 +40,4 @@ jobs:
          git add data
          git add README.md
          git commit --allow-empty -m "GH Action: Updated from data pull dataset"
-         #git push
+         git push
