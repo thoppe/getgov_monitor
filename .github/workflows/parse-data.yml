@@ -28,6 +28,8 @@ jobs:
         env:
           BLUESKY_BOT_TOKEN: ${{ secrets.BLUESKY_BOT_TOKEN }}
         run: |
+         echo "$BLUESKY_BOT_TOKEN"
+         echo $BLUESKY_BOT_TOKEN
          python P0_clone_and_extract.py
          python P1_compile_results.py
          python P2_bluesky_post.py
