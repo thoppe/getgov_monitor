@@ -32,6 +32,9 @@ df = df[df["commit_date"] >= cutoff_date]
 # Drop columns that aren't useful (data changed in early years)
 df = df.dropna(axis=1, how="all")
 
+# Save this smaller table for tweets
+df.to_csv("data/bluesky_targets.csv", index=False)
+
 # Drop changed_old (already counted in changed old)
 df = df[df["modification"].isin(["added", "deleted", "changed_new"])]
 

@@ -10,7 +10,7 @@ name: parse-data
         required: true
         default: 'Test automation'
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0,6,12,18 * * *"
 jobs:
   parse-info:
     runs-on: ubuntu-latest
@@ -28,6 +28,7 @@ jobs:
         run: |
          python P0_clone_and_extract.py
          python P1_compile_results.py
+         python P2_bluesky_post.py
       - name: Commit the results to the repo
         run: |
          git config user.name github-actions
