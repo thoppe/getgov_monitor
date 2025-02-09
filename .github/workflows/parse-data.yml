@@ -25,6 +25,8 @@ jobs:
       - name: Install the requirements
         run: pip install -r requirements.txt
       - name: Download data
+        env:
+          BLUESKY_BOT_TOKEN: ${{ secrets.BLUESKY_BOT_TOKEN }}
         run: |
          python P0_clone_and_extract.py
          python P1_compile_results.py
