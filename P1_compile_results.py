@@ -21,6 +21,8 @@ print(df.columns)
 df.loc[~idx1, "Organization"] = df.loc[~idx1, "Organization Name"]
 idx0 = df["Organization"].isna()
 
+del df["Organization Name"]
+
 # Save the results to file
 df.to_csv("data/all_federal_us_domain_changes.csv", index=False)
 
