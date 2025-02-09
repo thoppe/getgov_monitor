@@ -15,8 +15,6 @@ jobs:
   parse-info:
     runs-on: ubuntu-latest
     steps:
-        env:
-            BLUESKY_BOT_TOKEN: ${{ secrets.BLUESKY_BOT_TOKEN }}
       - name: Checkout the repo
         uses: actions/checkout@v3
       - name: Install python
