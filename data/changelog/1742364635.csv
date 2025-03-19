@@ -1,0 +1,12 @@
+Domain Name,Domain Type,Agency,Organization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+atfonline.gov,Federal - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms and Explosives",Washington,DC,Responsible_Disclosure@usdoj.gov,deleted,2025-03-19 06:10:35+00:00,1742364635
+oneaftac.gov,Federal - Executive,Department of Defense,Air Force Technical Applications Center,Patrick SFB,FL,dco@aftac.gov,changed_old,2025-03-19 06:10:35+00:00,1742364635
+oneaftac.gov,Federal - Executive,Department of Defense,Air Force Technical Applications Center,Patrick SFB,FL,abuse@aftac.gov,changed_new,2025-03-19 06:10:35+00:00,1742364635
+frtr.gov,Federal - Executive,Environmental Protection Agency,Federal Remediation Roundtable,Omaha,NE,infosec@epa.gov,changed_old,2025-03-19 06:10:35+00:00,1742364635
+frtr.gov,Federal - Executive,Environmental Protection Agency,Federal Remediation Technology Roundtable,Washington,DC,infosec@epa.gov,changed_new,2025-03-19 06:10:35+00:00,1742364635
+covid.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,responsibledisclosure@hhs.gov,changed_old,2025-03-19 06:10:35+00:00,1742364635
+covid.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,dl.eop.cloudadmin@eop.gov,changed_new,2025-03-19 06:10:35+00:00,1742364635
+covidtest.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,responsibledisclosure@hhs.gov,changed_old,2025-03-19 06:10:35+00:00,1742364635
+covidtest.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,dl.eop.cloudadmin@eop.gov,changed_new,2025-03-19 06:10:35+00:00,1742364635
+covidtests.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,responsibledisclosure@hhs.gov,changed_old,2025-03-19 06:10:35+00:00,1742364635
+covidtests.gov,Federal - Executive,Executive Office of the President,Executive Office of the President,,DC,dl.eop.cloudadmin@eop.gov,changed_new,2025-03-19 06:10:35+00:00,1742364635
