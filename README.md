@@ -9,18 +9,19 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                       |    | date       |
 |:-----------------------------------------------------------------------------|:---------------------------------------------|:---|:-----------|
-| [atfonline.gov](https://atfonline.gov)                                       | Department of Justice                        | ❌  | 2025-03-19 |
-| [covid.gov](https://covid.gov)                                               | Executive Office of the President            | ✏️ | 2025-03-19 |
-| [covidtest.gov](https://covidtest.gov)                                       | Executive Office of the President            | ✏️ | 2025-03-19 |
-| [frtr.gov](https://frtr.gov)                                                 | Environmental Protection Agency              | ✏️ | 2025-03-19 |
+| [trumpcard.gov](https://trumpcard.gov)                                       | Executive Office of the President            | ✅  | 2025-03-25 |
 | [oneaftac.gov](https://oneaftac.gov)                                         | Department of Defense                        | ✏️ | 2025-03-19 |
+| [frtr.gov](https://frtr.gov)                                                 | Environmental Protection Agency              | ✏️ | 2025-03-19 |
+| [covidtest.gov](https://covidtest.gov)                                       | Executive Office of the President            | ✏️ | 2025-03-19 |
+| [covid.gov](https://covid.gov)                                               | Executive Office of the President            | ✏️ | 2025-03-19 |
 | [covidtests.gov](https://covidtests.gov)                                     | Executive Office of the President            | ✏️ | 2025-03-19 |
+| [atfonline.gov](https://atfonline.gov)                                       | Department of Justice                        | ❌  | 2025-03-19 |
 | [workwithusaid.gov](https://workwithusaid.gov)                               | U.S. Agency for International Development    | ✏️ | 2025-03-18 |
 | [covid.gov](https://covid.gov)                                               | Executive Office of the President            | ✏️ | 2025-03-14 |
 | [covidtest.gov](https://covidtest.gov)                                       | Executive Office of the President            | ✏️ | 2025-03-14 |
 | [covidtests.gov](https://covidtests.gov)                                     | Executive Office of the President            | ✏️ | 2025-03-14 |
-| [dei.gov](https://dei.gov)                                                   | Executive Office of the President            | ✏️ | 2025-03-06 |
 | [dfafacts.gov](https://dfafacts.gov)                                         | Department of State                          | ✏️ | 2025-03-06 |
+| [dei.gov](https://dei.gov)                                                   | Executive Office of the President            | ✏️ | 2025-03-06 |
 | [creators.gov](https://creators.gov)                                         | Executive Office of the President            | ✅  | 2025-03-05 |
 | [economicinclusion.gov](https://economicinclusion.gov)                       | Federal Deposit Insurance Corporation        | ❌  | 2025-03-04 |
 | [crisisnextdoor.gov](https://crisisnextdoor.gov)                             | Executive Office of the President            | ❌  | 2025-02-11 |
@@ -49,13 +50,13 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [dei.gov](https://dei.gov)                                                   | Executive Office of the President            | ✅  | 2025-02-05 |
 | [unnpp.gov](https://unnpp.gov)                                               | Department of Energy                         | ✏️ | 2025-01-30 |
 | [usitcoig.gov](https://usitcoig.gov)                                         | United States International Trade Commission | ✏️ | 2025-01-25 |
+| [ej.gov](https://ej.gov)                                                     | Department of the Interior                   | ✏️ | 2025-01-23 |
 | [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                   | ✏️ | 2025-01-23 |
 | [geoplatform.gov](https://geoplatform.gov)                                   | Department of the Interior                   | ✏️ | 2025-01-23 |
-| [ej.gov](https://ej.gov)                                                     | Department of the Interior                   | ✏️ | 2025-01-23 |
 | [votebymail.gov](https://votebymail.gov)                                     | Election Assistance Commission               | ✏️ | 2025-01-22 |
 | [doge.gov](https://doge.gov)                                                 | Executive Office of the President            | ✅  | 2025-01-21 |
-| [ej.gov](https://ej.gov)                                                     | Department of the Interior                   | ✏️ | 2025-01-16 |
 | [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                   | ✏️ | 2025-01-16 |
+| [ej.gov](https://ej.gov)                                                     | Department of the Interior                   | ✏️ | 2025-01-16 |
 | [tracss.gov](https://tracss.gov)                                             | Department of Commerce                       | ✏️ | 2025-01-07 |
 | [papahanaumokuakea.gov](https://papahanaumokuakea.gov)                       | Department of Commerce                       | ✏️ | 2025-01-04 |
 | [uscp.gov](https://uscp.gov)                                                 | U.S. Capitol Police                          | ✏️ | 2025-01-03 |
