@@ -9,43 +9,46 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                         |    | date       |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------|:---|:-----------|
-| [medicaid.gov](https://medicaid.gov)                                         | Department of Health and Human Services        | ✏️ | 2025-05-08 |
-| [insurekidsnow.gov](https://insurekidsnow.gov)                               | Department of Health and Human Services        | ✏️ | 2025-05-08 |
-| [healthcare.gov](https://healthcare.gov)                                     | Department of Health and Human Services        | ✏️ | 2025-05-08 |
-| [hc.gov](https://hc.gov)                                                     | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [altusandc.gov](https://altusandc.gov)                                       | Department of Defense                          | ✏️ | 2025-05-10 |
+| [aftac.gov](https://aftac.gov)                                               | Department of Defense                          | ✏️ | 2025-05-10 |
+| [usandc.gov](https://usandc.gov)                                             | Department of Defense                          | ✏️ | 2025-05-10 |
 | [cuidadodesalud.gov](https://cuidadodesalud.gov)                             | Department of Health and Human Services        | ✏️ | 2025-05-08 |
-| [cms.gov](https://cms.gov)                                                   | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [hc.gov](https://hc.gov)                                                     | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [healthcare.gov](https://healthcare.gov)                                     | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [insurekidsnow.gov](https://insurekidsnow.gov)                               | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [medicaid.gov](https://medicaid.gov)                                         | Department of Health and Human Services        | ✏️ | 2025-05-08 |
 | [medicare.gov](https://medicare.gov)                                         | Department of Health and Human Services        | ✏️ | 2025-05-08 |
 | [mymedicare.gov](https://mymedicare.gov)                                     | Department of Health and Human Services        | ✏️ | 2025-05-08 |
+| [cms.gov](https://cms.gov)                                                   | Department of Health and Human Services        | ✏️ | 2025-05-08 |
 | [medicalbillrights.gov](https://medicalbillrights.gov)                       | Department of Health and Human Services        | ✏️ | 2025-05-01 |
 | [ctoc.gov](https://ctoc.gov)                                                 | Department of Defense                          | ❌  | 2025-05-01 |
 | [cerebrosano.gov](https://cerebrosano.gov)                                   | Department of Health and Human Services        | ❌  | 2025-05-01 |
 | [brainhealth.gov](https://brainhealth.gov)                                   | Department of Health and Human Services        | ❌  | 2025-05-01 |
+| [dinnerforamerica.gov](https://dinnerforamerica.gov)                         | Department of Commerce                         | ❌  | 2025-04-30 |
+| [bfem.gov](https://bfem.gov)                                                 | Department of the Treasury                     | ✏️ | 2025-04-30 |
 | [thetrillion.gov](https://thetrillion.gov)                                   | Department of Commerce                         | ❌  | 2025-04-30 |
 | [thetrilliondollardinner.gov](https://thetrilliondollardinner.gov)           | Department of Commerce                         | ❌  | 2025-04-30 |
-| [bfem.gov](https://bfem.gov)                                                 | Department of the Treasury                     | ✏️ | 2025-04-30 |
-| [dinnerforamerica.gov](https://dinnerforamerica.gov)                         | Department of Commerce                         | ❌  | 2025-04-30 |
 | [aha.gov](https://aha.gov)                                                   | Department of Health and Human Services        | ✅  | 2025-04-29 |
-| [fedezfile.gov](https://fedezfile.gov)                                       | Federal Reserve Board of Governors             | ✅  | 2025-04-26 |
 | [supervisioncentral.gov](https://supervisioncentral.gov)                     | Federal Reserve Board of Governors             | ✅  | 2025-04-26 |
-| [defense.gov](https://defense.gov)                                           | Department of Defense                          | ✏️ | 2025-04-25 |
+| [fedezfile.gov](https://fedezfile.gov)                                       | Federal Reserve Board of Governors             | ✅  | 2025-04-26 |
 | [acc.gov](https://acc.gov)                                                   | Corporation for National and Community Service | ❌  | 2025-04-25 |
 | [americanclimatecorps.gov](https://americanclimatecorps.gov)                 | Corporation for National and Community Service | ❌  | 2025-04-25 |
 | [ccc.gov](https://ccc.gov)                                                   | Corporation for National and Community Service | ❌  | 2025-04-25 |
 | [climatecore.gov](https://climatecore.gov)                                   | Corporation for National and Community Service | ❌  | 2025-04-25 |
-| [climatecorp.gov](https://climatecorp.gov)                                   | Corporation for National and Community Service | ❌  | 2025-04-25 |
 | [climatecorps.gov](https://climatecorps.gov)                                 | Corporation for National and Community Service | ❌  | 2025-04-25 |
+| [climatecorp.gov](https://climatecorp.gov)                                   | Corporation for National and Community Service | ❌  | 2025-04-25 |
+| [defense.gov](https://defense.gov)                                           | Department of Defense                          | ✏️ | 2025-04-25 |
 | [lfs.gov](https://lfs.gov)                                                   | gov Administration                             | ✅  | 2025-04-24 |
-| [covid.gov](https://covid.gov)                                               | Executive Office of the President              | ✏️ | 2025-04-19 |
-| [coronavirus.gov](https://coronavirus.gov)                                   | Executive Office of the President              | ✏️ | 2025-04-19 |
-| [ehr.gov](https://ehr.gov)                                                   | Department of Defense                          | ✏️ | 2025-04-19 |
-| [covidtest.gov](https://covidtest.gov)                                       | Executive Office of the President              | ✏️ | 2025-04-19 |
 | [covidtests.gov](https://covidtests.gov)                                     | Executive Office of the President              | ✏️ | 2025-04-19 |
-| [investinamerica.gov](https://investinamerica.gov)                           | Department of Commerce                         | ✅  | 2025-04-16 |
+| [ehr.gov](https://ehr.gov)                                                   | Department of Defense                          | ✏️ | 2025-04-19 |
+| [coronavirus.gov](https://coronavirus.gov)                                   | Executive Office of the President              | ✏️ | 2025-04-19 |
+| [covid.gov](https://covid.gov)                                               | Executive Office of the President              | ✏️ | 2025-04-19 |
+| [covidtest.gov](https://covidtest.gov)                                       | Executive Office of the President              | ✏️ | 2025-04-19 |
 | [unnpp.gov](https://unnpp.gov)                                               | Department of Energy                           | ✏️ | 2025-04-16 |
+| [investinamerica.gov](https://investinamerica.gov)                           | Department of Commerce                         | ✅  | 2025-04-16 |
 | [affordableconnectivity.gov](https://affordableconnectivity.gov)             | Federal Communications Commission              | ❌  | 2025-04-12 |
-| [trumpcard.gov](https://trumpcard.gov)                                       | Executive Office of the President              | ✏️ | 2025-04-11 |
 | [greengov.gov](https://greengov.gov)                                         | Environmental Protection Agency                | ❌  | 2025-04-11 |
+| [trumpcard.gov](https://trumpcard.gov)                                       | Executive Office of the President              | ✏️ | 2025-04-11 |
 | [arts.gov](https://arts.gov)                                                 | National Endowment for the Arts                | ✏️ | 2025-04-10 |
 | [whms.gov](https://whms.gov)                                                 | Executive Office of the President              | ✅  | 2025-04-10 |
 | [whcs.gov](https://whcs.gov)                                                 | Executive Office of the President              | ✅  | 2025-04-10 |
@@ -115,9 +118,9 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [waste.gov](https://waste.gov)                                               | Executive Office of the President              | ✅  | 2025-02-05 |
 | [unnpp.gov](https://unnpp.gov)                                               | Department of Energy                           | ✏️ | 2025-01-30 |
 | [usitcoig.gov](https://usitcoig.gov)                                         | United States International Trade Commission   | ✏️ | 2025-01-25 |
+| [ej.gov](https://ej.gov)                                                     | Department of the Interior                     | ✏️ | 2025-01-23 |
 | [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                     | ✏️ | 2025-01-23 |
 | [geoplatform.gov](https://geoplatform.gov)                                   | Department of the Interior                     | ✏️ | 2025-01-23 |
-| [ej.gov](https://ej.gov)                                                     | Department of the Interior                     | ✏️ | 2025-01-23 |
 | [votebymail.gov](https://votebymail.gov)                                     | Election Assistance Commission                 | ✏️ | 2025-01-22 |
 | [doge.gov](https://doge.gov)                                                 | Executive Office of the President              | ✅  | 2025-01-21 |
 | [ej.gov](https://ej.gov)                                                     | Department of the Interior                     | ✏️ | 2025-01-16 |
