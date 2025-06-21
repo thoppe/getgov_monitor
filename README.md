@@ -9,18 +9,18 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                                     |    | date       |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------------------|:---|:-----------|
+| [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-21 |
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-19 |
-| [financialstability.gov](https://financialstability.gov)                     | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [americathebeautifulquarters.gov](https://americathebeautifulquarters.gov)   | Department of the Treasury                                 | ❌  | 2025-06-18 |
-| [mha.gov](https://mha.gov)                                                   | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [makinghomeaffordable.gov](https://makinghomeaffordable.gov)                 | Department of the Treasury                                 | ❌  | 2025-06-18 |
+| [financialstability.gov](https://financialstability.gov)                     | Department of the Treasury                                 | ❌  | 2025-06-18 |
+| [mha.gov](https://mha.gov)                                                   | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [aspr.gov](https://aspr.gov)                                                 | Department of Health and Human Services                    | ✏️ | 2025-06-17 |
 | [psa.gov](https://psa.gov)                                                   | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [pretrialservices.gov](https://pretrialservices.gov)                         | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [csosa.gov](https://csosa.gov)                                               | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [cnss.gov](https://cnss.gov)                                                 | Department of Defense                                      | ✏️ | 2025-06-07 |
 | [dc3on.gov](https://dc3on.gov)                                               | Department of Defense                                      | ✏️ | 2025-06-07 |
-| [ata.gov](https://ata.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [psup.gov](https://psup.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [psd.gov](https://psd.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [owc.gov](https://owc.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
@@ -29,13 +29,14 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [erpo.gov](https://erpo.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [fraho.gov](https://fraho.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [igorville.gov](https://igorville.gov)                                       | .gov Administration                                        | ✏️ | 2025-06-05 |
-| [osdls.gov](https://osdls.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [rpo.gov](https://rpo.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [jpo.gov](https://jpo.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [lfs.gov](https://lfs.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [nrpo.gov](https://nrpo.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [pubservices.gov](https://pubservices.gov)                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [iarpa-ideas.gov](https://iarpa-ideas.gov)                                   | Director of National Intelligence                          | ✏️ | 2025-06-05 |
+| [ata.gov](https://ata.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
+| [osdls.gov](https://osdls.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [ukraineoversight.gov](https://ukraineoversight.gov)                         | Department of Defense                                      | ✏️ | 2025-06-03 |
 | [maha.gov](https://maha.gov)                                                 | Executive Office of the President                          | ✅  | 2025-05-23 |
 | [itrd.gov](https://itrd.gov)                                                 | Executive Office of the President                          | ✏️ | 2025-05-21 |
@@ -55,16 +56,16 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [cuidadodesalud.gov](https://cuidadodesalud.gov)                             | Department of Health and Human Services                    | ✏️ | 2025-05-08 |
 | [cms.gov](https://cms.gov)                                                   | Department of Health and Human Services                    | ✏️ | 2025-05-08 |
 | [ctoc.gov](https://ctoc.gov)                                                 | Department of Defense                                      | ❌  | 2025-05-01 |
-| [medicalbillrights.gov](https://medicalbillrights.gov)                       | Department of Health and Human Services                    | ✏️ | 2025-05-01 |
-| [brainhealth.gov](https://brainhealth.gov)                                   | Department of Health and Human Services                    | ❌  | 2025-05-01 |
 | [cerebrosano.gov](https://cerebrosano.gov)                                   | Department of Health and Human Services                    | ❌  | 2025-05-01 |
-| [dinnerforamerica.gov](https://dinnerforamerica.gov)                         | Department of Commerce                                     | ❌  | 2025-04-30 |
+| [brainhealth.gov](https://brainhealth.gov)                                   | Department of Health and Human Services                    | ❌  | 2025-05-01 |
+| [medicalbillrights.gov](https://medicalbillrights.gov)                       | Department of Health and Human Services                    | ✏️ | 2025-05-01 |
 | [thetrillion.gov](https://thetrillion.gov)                                   | Department of Commerce                                     | ❌  | 2025-04-30 |
 | [thetrilliondollardinner.gov](https://thetrilliondollardinner.gov)           | Department of Commerce                                     | ❌  | 2025-04-30 |
 | [bfem.gov](https://bfem.gov)                                                 | Department of the Treasury                                 | ✏️ | 2025-04-30 |
+| [dinnerforamerica.gov](https://dinnerforamerica.gov)                         | Department of Commerce                                     | ❌  | 2025-04-30 |
 | [aha.gov](https://aha.gov)                                                   | Department of Health and Human Services                    | ✅  | 2025-04-29 |
-| [fedezfile.gov](https://fedezfile.gov)                                       | Federal Reserve Board of Governors                         | ✅  | 2025-04-26 |
 | [supervisioncentral.gov](https://supervisioncentral.gov)                     | Federal Reserve Board of Governors                         | ✅  | 2025-04-26 |
+| [fedezfile.gov](https://fedezfile.gov)                                       | Federal Reserve Board of Governors                         | ✅  | 2025-04-26 |
 | [americanclimatecorps.gov](https://americanclimatecorps.gov)                 | Corporation for National and Community Service             | ❌  | 2025-04-25 |
 | [acc.gov](https://acc.gov)                                                   | Corporation for National and Community Service             | ❌  | 2025-04-25 |
 | [ccc.gov](https://ccc.gov)                                                   | Corporation for National and Community Service             | ❌  | 2025-04-25 |
