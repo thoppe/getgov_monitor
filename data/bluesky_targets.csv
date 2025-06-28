@@ -1,14 +1,16 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date
-doge.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank),changed_old,2025-06-27 06:12:13+00:00,1751004733.0
+deregulation.gov,Federal - Executive,Executive Office of the President,DOGE,Washington,DC,(blank),changed_old,2025-06-28 06:10:17+00:00,1751091017.0
+deregulation.gov,Federal - Executive,Executive Office of the President,DOGE,Washington,DC,dl.eop.cloud@eop.gov,changed_new,2025-06-28 06:10:17+00:00,1751091017.0
 doge.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_new,2025-06-27 06:12:13+00:00,1751004733.0
+doge.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank),changed_old,2025-06-27 06:12:13+00:00,1751004733.0
 eac.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov,changed_old,2025-06-24 06:12:39+00:00,1750745559.0
-helpamericavote.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov,changed_old,2025-06-24 06:12:39+00:00,1750745559.0
-helpamericavote.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Washington,DC,security@eac.gov,changed_new,2025-06-24 06:12:39+00:00,1750745559.0
-paymentaccuracy.gov,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2025-06-24 06:12:39+00:00,1750745559.0
-paymentaccuracy.gov,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_new,2025-06-24 06:12:39+00:00,1750745559.0
 eac.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Washington,DC,security@eac.gov,changed_new,2025-06-24 06:12:39+00:00,1750745559.0
-vote.gov,Federal - Executive,Election Assistance Commission,,,DC,(blank),changed_new,2025-06-21 06:10:17+00:00,1750486217.0
+paymentaccuracy.gov,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_new,2025-06-24 06:12:39+00:00,1750745559.0
+paymentaccuracy.gov,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2025-06-24 06:12:39+00:00,1750745559.0
+helpamericavote.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Washington,DC,security@eac.gov,changed_new,2025-06-24 06:12:39+00:00,1750745559.0
+helpamericavote.gov,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov,changed_old,2025-06-24 06:12:39+00:00,1750745559.0
 vote.gov,Federal - Executive,Election Assistance Commission,,,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2025-06-21 06:10:17+00:00,1750486217.0
+vote.gov,Federal - Executive,Election Assistance Commission,,,DC,(blank),changed_new,2025-06-21 06:10:17+00:00,1750486217.0
 vote.gov,Federal - Executive,Election Assistance Commission,,,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2025-06-19 06:12:04+00:00,1750313524.0
 vote.gov,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2025-06-19 06:12:04+00:00,1750313524.0
 mha.gov,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,domainsecurity@treasury.gov,deleted,2025-06-18 06:12:22+00:00,1750227142.0
@@ -17,21 +19,20 @@ financialstability.gov,Federal - Executive,Department of the Treasury,Department
 americathebeautifulquarters.gov,Federal - Executive,Department of the Treasury,Department of the Treasury - U.S. Mint,Washington,DC,domainsecurity@treasury.gov,deleted,2025-06-18 06:12:22+00:00,1750227142.0
 aspr.gov,Federal - Executive,Department of Health and Human Services,Administration for Strategic Preparedness and Response,Washington,DC,ASPRITHelp@hhs.gov,changed_old,2025-06-17 06:12:03+00:00,1750140723.0
 aspr.gov,Federal - Executive,Department of Health and Human Services,Administration for Strategic Preparedness and Response,Washington,DC,responsibledisclosure@hhs.gov,changed_new,2025-06-17 06:12:03+00:00,1750140723.0
+pretrialservices.gov,Federal - Executive,DC Court Services and Offender Supervision Agency,Pretrial Services Agency for the District of Columbia,Washington,DC,PSAITSecurity@PSA.gov,changed_old,2025-06-10 06:12:01+00:00,1749535921.0
 psa.gov,Federal - Executive,DC Court Services and Offender Supervision Agency,Court Services and Offender Supervision Agency,Washington,DC,PSAITSecurity@PSA.gov,changed_old,2025-06-10 06:12:01+00:00,1749535921.0
 psa.gov,Federal - Executive,Court Services and Offender Supervision Agency,Court Services and Offender Supervision Agency,Washington,DC,PSAITSecurity@PSA.gov,changed_new,2025-06-10 06:12:01+00:00,1749535921.0
-pretrialservices.gov,Federal - Executive,DC Court Services and Offender Supervision Agency,Pretrial Services Agency for the District of Columbia,Washington,DC,PSAITSecurity@PSA.gov,changed_old,2025-06-10 06:12:01+00:00,1749535921.0
+csosa.gov,Federal - Executive,Court Services and Offender Supervision Agency,Office of information Technology,Washington,DC,Soc@csosa.gov,changed_new,2025-06-10 06:12:01+00:00,1749535921.0
 pretrialservices.gov,Federal - Executive,Court Services and Offender Supervision Agency,Pretrial Services Agency for the District of Columbia,Washington,DC,PSAITSecurity@PSA.gov,changed_new,2025-06-10 06:12:01+00:00,1749535921.0
 csosa.gov,Federal - Executive,DC Court Services and Offender Supervision Agency,Office of information Technology,Washington,DC,Soc@csosa.gov,changed_old,2025-06-10 06:12:01+00:00,1749535921.0
-csosa.gov,Federal - Executive,Court Services and Offender Supervision Agency,Office of information Technology,Washington,DC,Soc@csosa.gov,changed_new,2025-06-10 06:12:01+00:00,1749535921.0
 cnss.gov,Federal - Executive,Department of Defense,CNSS Secretariat,Fort Meade,MD,(blank),changed_old,2025-06-07 06:10:09+00:00,1749276609.0
 cnss.gov,Federal - Executive,Department of Defense,CNSS Secretariat,Fort Meade,MD,alilly@nsa.gov,changed_new,2025-06-07 06:10:09+00:00,1749276609.0
 dc3on.gov,Federal - Executive,Department of Defense,Defense Cyber Crime Center,Linthicum,MD,(blank),changed_old,2025-06-07 06:10:09+00:00,1749276609.0
 dc3on.gov,Federal - Executive,Department of Defense,Defense Cyber Crime Center,Linthicum,MD,bto.cs@us.af.mil,changed_new,2025-06-07 06:10:09+00:00,1749276609.0
-iarpa-ideas.gov,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,ideas_licensing@serco-na.com,changed_new,2025-06-05 06:11:53+00:00,1749103913.0
+iarpa-ideas.gov,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 ata.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 ata.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 domainops.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
-pubservices.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 osdls.gov,Federal - Executive,.gov Administration,.gov Administration,Washington,DC,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 owc.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 owc.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
@@ -40,7 +41,8 @@ psd.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA
 psup.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 psup.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 pubservices.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
-iarpa-ideas.gov,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
+pubservices.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
+iarpa-ideas.gov,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,ideas_licensing@serco-na.com,changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 nrpo.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 nrpo.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 lfs.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
@@ -56,8 +58,8 @@ erpo.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA
 ecfc.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 ecfc.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
 domainops.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
-rpo.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 rpo.gov,Federal - Executive,gov Administration,.gov Administration,Arlington,VA,(blank),changed_old,2025-06-05 06:11:53+00:00,1749103913.0
+rpo.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 fraho.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-06-05 06:11:53+00:00,1749103913.0
 ukraineoversight.gov,Federal - Executive,Department of Defense,Department of Defense Office of Inspector General,Alexandria,VA,sean.m.branch2.civ@dodig.mil,changed_new,2025-06-03 06:11:45+00:00,1748931105.0
 ukraineoversight.gov,Federal - Executive,Department of Defense,Department of Defense Office of Inspector General,Alexandria,VA,(blank),changed_old,2025-06-03 06:11:45+00:00,1748931105.0

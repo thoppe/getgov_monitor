@@ -9,10 +9,11 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                                     |    | date       |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------------------|:---|:-----------|
+| [deregulation.gov](https://deregulation.gov)                                 | Executive Office of the President                          | ✏️ | 2025-06-28 |
 | [doge.gov](https://doge.gov)                                                 | Executive Office of the President                          | ✏️ | 2025-06-27 |
-| [helpamericavote.gov](https://helpamericavote.gov)                           | Election Assistance Commission                             | ✏️ | 2025-06-24 |
-| [paymentaccuracy.gov](https://paymentaccuracy.gov)                           | General Services Administration                            | ✏️ | 2025-06-24 |
 | [eac.gov](https://eac.gov)                                                   | Election Assistance Commission                             | ✏️ | 2025-06-24 |
+| [paymentaccuracy.gov](https://paymentaccuracy.gov)                           | General Services Administration                            | ✏️ | 2025-06-24 |
+| [helpamericavote.gov](https://helpamericavote.gov)                           | Election Assistance Commission                             | ✏️ | 2025-06-24 |
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-21 |
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-19 |
 | [mha.gov](https://mha.gov)                                                   | Department of the Treasury                                 | ❌  | 2025-06-18 |
@@ -21,17 +22,17 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [americathebeautifulquarters.gov](https://americathebeautifulquarters.gov)   | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [aspr.gov](https://aspr.gov)                                                 | Department of Health and Human Services                    | ✏️ | 2025-06-17 |
 | [psa.gov](https://psa.gov)                                                   | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
-| [pretrialservices.gov](https://pretrialservices.gov)                         | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [csosa.gov](https://csosa.gov)                                               | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
+| [pretrialservices.gov](https://pretrialservices.gov)                         | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [cnss.gov](https://cnss.gov)                                                 | Department of Defense                                      | ✏️ | 2025-06-07 |
 | [dc3on.gov](https://dc3on.gov)                                               | Department of Defense                                      | ✏️ | 2025-06-07 |
-| [iarpa-ideas.gov](https://iarpa-ideas.gov)                                   | Director of National Intelligence                          | ✏️ | 2025-06-05 |
 | [ata.gov](https://ata.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
-| [pubservices.gov](https://pubservices.gov)                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [osdls.gov](https://osdls.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [owc.gov](https://owc.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [psd.gov](https://psd.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [psup.gov](https://psup.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
+| [pubservices.gov](https://pubservices.gov)                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
+| [iarpa-ideas.gov](https://iarpa-ideas.gov)                                   | Director of National Intelligence                          | ✏️ | 2025-06-05 |
 | [nrpo.gov](https://nrpo.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [lfs.gov](https://lfs.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [jpo.gov](https://jpo.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
