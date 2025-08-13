@@ -9,35 +9,36 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                                     |    | date       |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------------------|:---|:-----------|
-| [pcscotus.gov](https://pcscotus.gov)                                         | General Services Administration                            | ❌  | 2025-08-09 |
+| [lsc.gov](https://lsc.gov)                                                   | Legal Services Corporation                                 | ✏️ | 2025-08-13 |
 | [2020census.gov](https://2020census.gov)                                     | Department of Commerce                                     | ❌  | 2025-08-09 |
+| [pcscotus.gov](https://pcscotus.gov)                                         | General Services Administration                            | ❌  | 2025-08-09 |
 | [my2020census.gov](https://my2020census.gov)                                 | Department of Commerce                                     | ❌  | 2025-08-09 |
 | [americorpsoig.gov](https://americorpsoig.gov)                               | Corporation for National and Community Service             | ✏️ | 2025-08-06 |
-| [bja.gov](https://bja.gov)                                                   | Department of Justice                                      | ❌  | 2025-08-02 |
-| [malwareinvestigator.gov](https://malwareinvestigator.gov)                   | Department of Justice                                      | ❌  | 2025-08-02 |
-| [nsopr.gov](https://nsopr.gov)                                               | Department of Justice                                      | ❌  | 2025-08-02 |
-| [ucrdatatool.gov](https://ucrdatatool.gov)                                   | Department of Justice                                      | ❌  | 2025-08-02 |
 | [crypto.gov](https://crypto.gov)                                             | Executive Office of the President                          | ✏️ | 2025-08-02 |
+| [ucrdatatool.gov](https://ucrdatatool.gov)                                   | Department of Justice                                      | ❌  | 2025-08-02 |
+| [nsopr.gov](https://nsopr.gov)                                               | Department of Justice                                      | ❌  | 2025-08-02 |
+| [malwareinvestigator.gov](https://malwareinvestigator.gov)                   | Department of Justice                                      | ❌  | 2025-08-02 |
 | [fbihr.gov](https://fbihr.gov)                                               | Department of Justice                                      | ❌  | 2025-08-02 |
+| [bja.gov](https://bja.gov)                                                   | Department of Justice                                      | ❌  | 2025-08-02 |
 | [crypto.gov](https://crypto.gov)                                             | Executive Office of the President                          | ✏️ | 2025-08-01 |
 | [crypto.gov](https://crypto.gov)                                             | Non-Federal Agency                                         | ✅  | 2025-07-31 |
-| [buyusa.gov](https://buyusa.gov)                                             | Department of Commerce                                     | ❌  | 2025-07-26 |
 | [bja.gov](https://bja.gov)                                                   | Department of Justice                                      | ✏️ | 2025-07-26 |
+| [buyusa.gov](https://buyusa.gov)                                             | Department of Commerce                                     | ❌  | 2025-07-26 |
 | [lda.gov](https://lda.gov)                                                   | United States Senate                                       | ✅  | 2025-07-25 |
-| [prosperafrica.gov](https://prosperafrica.gov)                               | Department of State                                        | ✏️ | 2025-07-24 |
-| [userra.gov](https://userra.gov)                                             | Department of Justice                                      | ❌  | 2025-07-24 |
-| [feedthefuture.gov](https://feedthefuture.gov)                               | Department of State                                        | ✏️ | 2025-07-24 |
+| [scra.gov](https://scra.gov)                                                 | Department of Justice                                      | ❌  | 2025-07-24 |
 | [firstfreedom.gov](https://firstfreedom.gov)                                 | Department of Justice                                      | ❌  | 2025-07-24 |
 | [energycommunities.gov](https://energycommunities.gov)                       | Department of Energy                                       | ❌  | 2025-07-24 |
-| [scra.gov](https://scra.gov)                                                 | Department of Justice                                      | ❌  | 2025-07-24 |
-| [neglecteddiseases.gov](https://neglecteddiseases.gov)                       | Department of State                                        | ✏️ | 2025-07-23 |
-| [foreignassistance.gov](https://foreignassistance.gov)                       | Department of State                                        | ✏️ | 2025-07-23 |
+| [prosperafrica.gov](https://prosperafrica.gov)                               | Department of State                                        | ✏️ | 2025-07-24 |
+| [feedthefuture.gov](https://feedthefuture.gov)                               | Department of State                                        | ✏️ | 2025-07-24 |
+| [userra.gov](https://userra.gov)                                             | Department of Justice                                      | ❌  | 2025-07-24 |
 | [feedthefuture.gov](https://feedthefuture.gov)                               | Department of State                                        | ✏️ | 2025-07-23 |
+| [foreignassistance.gov](https://foreignassistance.gov)                       | Department of State                                        | ✏️ | 2025-07-23 |
+| [neglecteddiseases.gov](https://neglecteddiseases.gov)                       | Department of State                                        | ✏️ | 2025-07-23 |
 | [pmi.gov](https://pmi.gov)                                                   | Department of State                                        | ✏️ | 2025-07-23 |
 | [childreninadversity.gov](https://childreninadversity.gov)                   | Department of State                                        | ✏️ | 2025-07-23 |
+| [usaid.gov](https://usaid.gov)                                               | Department of State                                        | ✏️ | 2025-07-23 |
 | [workwithusaid.gov](https://workwithusaid.gov)                               | Department of State                                        | ✏️ | 2025-07-23 |
 | [prosperafrica.gov](https://prosperafrica.gov)                               | U.S. Agency for International Development                  | ✏️ | 2025-07-23 |
-| [usaid.gov](https://usaid.gov)                                               | Department of State                                        | ✏️ | 2025-07-23 |
 | [ofcm.gov](https://ofcm.gov)                                                 | Department of Commerce                                     | ❌  | 2025-07-18 |
 | [go.gov](https://go.gov)                                                     | General Services Administration                            | ✅  | 2025-07-16 |
 | [doioig.gov](https://doioig.gov)                                             | Department of the Interior                                 | ✏️ | 2025-07-12 |
@@ -53,9 +54,9 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-07-02 |
 | [deregulation.gov](https://deregulation.gov)                                 | Executive Office of the President                          | ✏️ | 2025-06-28 |
 | [doge.gov](https://doge.gov)                                                 | Executive Office of the President                          | ✏️ | 2025-06-27 |
+| [eac.gov](https://eac.gov)                                                   | Election Assistance Commission                             | ✏️ | 2025-06-24 |
 | [helpamericavote.gov](https://helpamericavote.gov)                           | Election Assistance Commission                             | ✏️ | 2025-06-24 |
 | [paymentaccuracy.gov](https://paymentaccuracy.gov)                           | General Services Administration                            | ✏️ | 2025-06-24 |
-| [eac.gov](https://eac.gov)                                                   | Election Assistance Commission                             | ✏️ | 2025-06-24 |
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-21 |
 | [vote.gov](https://vote.gov)                                                 | Election Assistance Commission                             | ✏️ | 2025-06-19 |
 | [mha.gov](https://mha.gov)                                                   | Department of the Treasury                                 | ❌  | 2025-06-18 |
@@ -63,15 +64,15 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [financialstability.gov](https://financialstability.gov)                     | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [americathebeautifulquarters.gov](https://americathebeautifulquarters.gov)   | Department of the Treasury                                 | ❌  | 2025-06-18 |
 | [aspr.gov](https://aspr.gov)                                                 | Department of Health and Human Services                    | ✏️ | 2025-06-17 |
+| [csosa.gov](https://csosa.gov)                                               | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [psa.gov](https://psa.gov)                                                   | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [pretrialservices.gov](https://pretrialservices.gov)                         | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
-| [csosa.gov](https://csosa.gov)                                               | Court Services and Offender Supervision Agency             | ✏️ | 2025-06-10 |
 | [cnss.gov](https://cnss.gov)                                                 | Department of Defense                                      | ✏️ | 2025-06-07 |
 | [dc3on.gov](https://dc3on.gov)                                               | Department of Defense                                      | ✏️ | 2025-06-07 |
 | [iarpa-ideas.gov](https://iarpa-ideas.gov)                                   | Director of National Intelligence                          | ✏️ | 2025-06-05 |
 | [domainops.gov](https://domainops.gov)                                       | .gov Administration                                        | ✏️ | 2025-06-05 |
-| [osdls.gov](https://osdls.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [nrpo.gov](https://nrpo.gov)                                                 | .gov Administration                                        | ✏️ | 2025-06-05 |
+| [osdls.gov](https://osdls.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [jpo.gov](https://jpo.gov)                                                   | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [igorville.gov](https://igorville.gov)                                       | .gov Administration                                        | ✏️ | 2025-06-05 |
 | [fraho.gov](https://fraho.gov)                                               | .gov Administration                                        | ✏️ | 2025-06-05 |
@@ -200,13 +201,13 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [dei.gov](https://dei.gov)                                                   | Executive Office of the President                          | ✅  | 2025-02-05 |
 | [unnpp.gov](https://unnpp.gov)                                               | Department of Energy                                       | ✏️ | 2025-01-30 |
 | [usitcoig.gov](https://usitcoig.gov)                                         | United States International Trade Commission               | ✏️ | 2025-01-25 |
-| [ej.gov](https://ej.gov)                                                     | Department of the Interior                                 | ✏️ | 2025-01-23 |
-| [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                                 | ✏️ | 2025-01-23 |
 | [geoplatform.gov](https://geoplatform.gov)                                   | Department of the Interior                                 | ✏️ | 2025-01-23 |
+| [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                                 | ✏️ | 2025-01-23 |
+| [ej.gov](https://ej.gov)                                                     | Department of the Interior                                 | ✏️ | 2025-01-23 |
 | [votebymail.gov](https://votebymail.gov)                                     | Election Assistance Commission                             | ✏️ | 2025-01-22 |
 | [doge.gov](https://doge.gov)                                                 | Executive Office of the President                          | ✅  | 2025-01-21 |
-| [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                                 | ✏️ | 2025-01-16 |
 | [ej.gov](https://ej.gov)                                                     | Department of the Interior                                 | ✏️ | 2025-01-16 |
+| [environmentaljustice.gov](https://environmentaljustice.gov)                 | Department of the Interior                                 | ✏️ | 2025-01-16 |
 | [tracss.gov](https://tracss.gov)                                             | Department of Commerce                                     | ✏️ | 2025-01-07 |
 | [papahanaumokuakea.gov](https://papahanaumokuakea.gov)                       | Department of Commerce                                     | ✏️ | 2025-01-04 |
 | [uscp.gov](https://uscp.gov)                                                 | U.S. Capitol Police                                        | ✏️ | 2025-01-03 |
