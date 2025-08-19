@@ -1,0 +1,11 @@
+Domain Name,Domain Type,Agency,Organization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+ffiec.gov,Federal - Executive,Federal Reserve Board of Governors,Federal Financial Institutions Examination Council ,Washington,DC,charles.b.young@frb.gov,changed_old,2025-08-19 06:11:58+00:00,1755583918
+ffiec.gov,Federal - Executive,Federal Reserve Board of Governors,Federal Financial Institutions Examination Council,Washington,DC,charles.b.young@frb.gov,changed_new,2025-08-19 06:11:58+00:00,1755583918
+dns.gov,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,(blank),changed_old,2025-08-19 06:11:58+00:00,1755583918
+dns.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-08-19 06:11:58+00:00,1755583918
+dotgov.gov,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,(blank),changed_old,2025-08-19 06:11:58+00:00,1755583918
+dotgov.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-08-19 06:11:58+00:00,1755583918
+nic.gov,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,(blank),changed_old,2025-08-19 06:11:58+00:00,1755583918
+nic.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,(blank),changed_new,2025-08-19 06:11:58+00:00,1755583918
+ns.gov,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cloudflare.com,changed_old,2025-08-19 06:11:58+00:00,1755583918
+ns.gov,Federal - Executive,.gov Administration,.gov Administration,Arlington,VA,dotgov@cloudflare.com,changed_new,2025-08-19 06:11:58+00:00,1755583918
