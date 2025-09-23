@@ -9,46 +9,48 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                  | Agency                                                     |    | date       |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------------------|:---|:-----------|
-| [housedems.gov](https://housedems.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [itis.gov](https://itis.gov)                                                 | Smithsonian Institution                                    | ✏️ | 2025-09-23 |
+| [smithsonian.gov](https://smithsonian.gov)                                   | Smithsonian Institution                                    | ✏️ | 2025-09-23 |
 | [housedemocrats.gov](https://housedemocrats.gov)                             | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [housecommunications.gov](https://housecommunications.gov)                   | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [majoritywhip.gov](https://majoritywhip.gov)                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [ppdcecc.gov](https://ppdcecc.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [china-commission.gov](https://china-commission.gov)                         | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [cecc.gov](https://cecc.gov)                                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [assistantdemocraticleader.gov](https://assistantdemocraticleader.gov)       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [minoritywhip.gov](https://minoritywhip.gov)                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [ushouse.gov](https://ushouse.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [tmdbhouse.gov](https://tmdbhouse.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [taxreform.gov](https://taxreform.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [speaker.gov](https://speaker.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [housedems.gov](https://housedems.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [republicanwhip.gov](https://republicanwhip.gov)                             | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [republicans.gov](https://republicans.gov)                                   | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [republicanleader.gov](https://republicanleader.gov)                         | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [majorityleader.gov](https://majorityleader.gov)                             | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [ushr.gov](https://ushr.gov)                                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [housed.gov](https://housed.gov)                                             | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [gop.gov](https://gop.gov)                                                   | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [dems.gov](https://dems.gov)                                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [democrats.gov](https://democrats.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [democraticwhip.gov](https://democraticwhip.gov)                             | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [democraticleader.gov](https://democraticleader.gov)                         | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [csce.gov](https://csce.gov)                                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [chinacommission.gov](https://chinacommission.gov)                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [ushouse.gov](https://ushouse.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [ppdcecc.gov](https://ppdcecc.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [jct.gov](https://jct.gov)                                                   | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [housenewsletters.gov](https://housenewsletters.gov)                         | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [gop.gov](https://gop.gov)                                                   | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [gopleader.gov](https://gopleader.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [houselive.gov](https://houselive.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [gopwhip.gov](https://gopwhip.gov)                                           | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [republicanleader.gov](https://republicanleader.gov)                         | United States House of Representatives                     | ✏️ | 2025-09-16 |
+| [ushr.gov](https://ushr.gov)                                                 | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [house.gov](https://house.gov)                                               | United States House of Representatives                     | ✏️ | 2025-09-16 |
-| [gopleader.gov](https://gopleader.gov)                                       | United States House of Representatives                     | ✏️ | 2025-09-16 |
 | [domainops.gov](https://domainops.gov)                                       | .gov Administration                                        | ✏️ | 2025-09-12 |
-| [dotgov.gov](https://dotgov.gov)                                             | .gov Administration                                        | ✏️ | 2025-09-12 |
+| [ns.gov](https://ns.gov)                                                     | .gov Administration                                        | ✏️ | 2025-09-12 |
 | [usxports.gov](https://usxports.gov)                                         | Department of State                                        | ✅  | 2025-09-12 |
 | [disasterassistance.gov](https://disasterassistance.gov)                     | Department of Homeland Security                            | ✏️ | 2025-09-12 |
-| [ns.gov](https://ns.gov)                                                     | .gov Administration                                        | ✏️ | 2025-09-12 |
 | [nic.gov](https://nic.gov)                                                   | .gov Administration                                        | ✏️ | 2025-09-12 |
-| [dns.gov](https://dns.gov)                                                   | .gov Administration                                        | ✏️ | 2025-09-12 |
 | [igorville.gov](https://igorville.gov)                                       | .gov Administration                                        | ✏️ | 2025-09-12 |
+| [dns.gov](https://dns.gov)                                                   | .gov Administration                                        | ✏️ | 2025-09-12 |
+| [dotgov.gov](https://dotgov.gov)                                             | .gov Administration                                        | ✏️ | 2025-09-12 |
 | [nmsc.gov](https://nmsc.gov)                                                 | Department of Homeland Security                            | ❌  | 2025-09-11 |
 | [gsafleet.gov](https://gsafleet.gov)                                         | General Services Administration                            | ✏️ | 2025-09-10 |
 | [fleet.gov](https://fleet.gov)                                               | General Services Administration                            | ✏️ | 2025-09-10 |
