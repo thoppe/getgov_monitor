@@ -1,0 +1,82 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+worldwar1centennial.gov,Federal - Executive,The United States World War One Centennial Commission,The United States World War One Centennial Commission,Washington,DC,chris.christopher@worldwar1centennial.gov,deleted,2026-01-21 06:15:42+00:00,1768976142
+hanford.gov,Federal - Executive,Department of Energy,Hanford Mission Integration Solutions,Richland,WA,jason_r_dandridge@rl.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+hanford.gov,Federal - Executive,Department of Energy,Hanford Mission Integration Solutions,Richland,WA,NCC@rl.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+rl.gov,Federal - Executive,Department of Energy,Hanford Mission Integration Solutions,Richland,WA,jason_r_dandridge@rl.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+rl.gov,Federal - Executive,Department of Energy,Hanford Mission Integration Solutions,Richland,WA,NCC@rl.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+dns.gov,Federal,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+dns.gov,Federal - Executive,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+domainops.gov,Federal,.gov Administration,Council of Test Administration,Ashburn,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+domainops.gov,Federal - Executive,.gov Administration,Council of Test Administration,Ashburn,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+dotgov.gov,Federal,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+dotgov.gov,Federal - Executive,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+igorville.gov,Federal,.gov Administration,Council of Test Administration,Ashburn,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+igorville.gov,Federal - Executive,.gov Administration,Council of Test Administration,Ashburn,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+nic.gov,Federal,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+nic.gov,Federal - Executive,.gov Administration,Infrastructure Commission,Arlington,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+ns.gov,Federal,.gov Administration,Infrastructure Commission,Arlington,VA,dotgov@cloudflare.com,changed_old,2026-01-21 06:15:42+00:00,1768976142
+ns.gov,Federal - Executive,.gov Administration,Infrastructure Commission,Arlington,VA,dotgov@cloudflare.com,changed_new,2026-01-21 06:15:42+00:00,1768976142
+africanamericanhistorymonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+africanamericanhistorymonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+americanmemory.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+americanmemory.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+americaslibrary.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+americaslibrary.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+asianpacificheritage.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+asianpacificheritage.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+blackhistorymonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+blackhistorymonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+ccb.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+ccb.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+congress.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+congress.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+copyrightclaimsboard.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+copyrightclaimsboard.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+copyright.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+copyright.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+currencyreaderapplication.gov,Federal - Legislative,Library of Congress,Library of Congress,WASHINGTON,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+currencyreaderapplication.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+currencyreader.gov,Federal - Legislative,Library of Congress,Library of Congress,WASHINGTON,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+currencyreader.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+digitalpreservation.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+digitalpreservation.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+digitizationguidelines.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+digitizationguidelines.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+hispanicheritagemonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+hispanicheritagemonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+jewishheritage.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+jewishheritage.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+jewishheritagemonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+jewishheritagemonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+law.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+law.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+lctl.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+lctl.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+libraryofcongress.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+libraryofcongress.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+lis.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+lis.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+literacy.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+literacy.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+loc.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+loc.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+loctest.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+loctest.gov,Federal - Legislative,Library of Congress,,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+loctps.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+loctps.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+nativeamericanheritagemonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+nativeamericanheritagemonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+read.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+read.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+section108.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+section108.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+thomas.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+thomas.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+tps.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142
+tps.gov,Federal - Legislative,Library of Congress,,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142
+unitedstatescongress.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+unitedstatescongress.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+uscongress.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+uscongress.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
+womenshistorymonth.gov,Federal - Legislative,Library of Congress,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142
+womenshistorymonth.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142
