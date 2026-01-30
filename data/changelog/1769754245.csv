@@ -1,0 +1,23 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+ptf.gov,Federal - Executive,The Intelligence Community,Prosecution Task Force,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+ptf.gov,Federal - Executive,Central Intelligence Agency,,Washington,DC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+changeofaddress.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+changeofaddress.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+mail.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+mail.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+myusps.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+myusps.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+postoffice.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+postoffice.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+purchasing.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+purchasing.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+uspis.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Arlington,VA,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+uspis.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+usps.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+usps.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+uspsinformeddelivery.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+uspsinformeddelivery.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+uspsinnovates.gov,Federal - Executive,United States Postal Service,U.S. Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245
+uspsinnovates.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245
+uspsoig.gov,Federal - Executive,United States Postal Service,USPS Office of Inspector General,Arlington,VA,IncidentReport@uspsoig.gov,changed_old,2026-01-30 06:24:05+00:00,1769754245
+uspsoig.gov,Federal - Executive,United States Postal Service,Office of Inspector General,Arlington,VA,IncidentReport@uspsoig.gov,changed_new,2026-01-30 06:24:05+00:00,1769754245
