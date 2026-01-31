@@ -1,51 +1,52 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
-uspsoig.gov,Federal - Executive,,United States Postal Service,Arlington,VA,IncidentReport@uspsoig.gov,changed_new,2026-01-30 06:24:05+00:00,1769754245.0,Office of Inspector General
-uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
+kennedy-center.gov,Federal - Executive,,John F. Kennedy Center for the Performing Arts,Washington,DC,hostmaster@kennedy-center.org,changed_new,2026-01-31 06:18:27+00:00,1769840307.0,John F Kennedy Center for Performing Arts
+kennedy-center.gov,Federal - Executive,,John F. Kennedy Center for the Performing Arts,Washington,DC,sbsellappan@kennedy-center.org,changed_old,2026-01-31 06:18:27+00:00,1769840307.0,John F Kennedy Center for Performing Arts
+changeofaddress.gov,Federal - Executive,,United States Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+uspsinnovates.gov,Federal - Executive,,United States Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 usps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
 uspsoig.gov,Federal - Executive,,United States Postal Service,Arlington,VA,IncidentReport@uspsoig.gov,changed_old,2026-01-30 06:24:05+00:00,1769754245.0,USPS Office of Inspector General
-mail.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 mail.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
 myusps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 myusps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-uspsinnovates.gov,Federal - Executive,,United States Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
-postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
-postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-changeofaddress.gov,Federal - Executive,,United States Postal Service,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 ptf.gov,Federal - Executive,,Central Intelligence Agency,Washington,DC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-ptf.gov,Federal - Executive,,The Intelligence Community,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,Prosecution Task Force
-usps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
-uspis.gov,Federal - Executive,,United States Postal Service,Arlington,VA,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
-uspsinnovates.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-uspis.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-changeofaddress.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
-purchasing.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
 purchasing.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
-consumerfinancialbureau.gov,Federal - Executive,,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,deleted,2026-01-29 06:23:52+00:00,1769667832.0,Consumer Financial Protection Bureau
-consumerprotection.gov,Federal - Executive,,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,deleted,2026-01-29 06:23:52+00:00,1769667832.0,Consumer Financial Protection Bureau
-nsf.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,changed_old,2026-01-29 06:23:52+00:00,1769667832.0,National Science Foundation
-nsf.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,U.S. National Science Foundation
-research.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,changed_old,2026-01-29 06:23:52+00:00,1769667832.0,National Science Foundation
-sac.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,Small Agency Council
-research.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,U.S. National Science Foundation
+purchasing.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+uspis.gov,Federal - Executive,,United States Postal Service,Arlington,VA,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
+uspis.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+usps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
+postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
+uspsinnovates.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+uspsoig.gov,Federal - Executive,,United States Postal Service,Arlington,VA,IncidentReport@uspsoig.gov,changed_new,2026-01-30 06:24:05+00:00,1769754245.0,Office of Inspector General
+changeofaddress.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_new,2026-01-30 06:24:05+00:00,1769754245.0,
+uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
+ptf.gov,Federal - Executive,,The Intelligence Community,Washington,DC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,Prosecution Task Force
+mail.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-01-30 06:24:05+00:00,1769754245.0,U.S. Postal Service
 sac.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,changed_old,2026-01-29 06:23:52+00:00,1769667832.0,Small Agency Council
+research.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,U.S. National Science Foundation
+research.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,changed_old,2026-01-29 06:23:52+00:00,1769667832.0,National Science Foundation
+nsf.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,changed_old,2026-01-29 06:23:52+00:00,1769667832.0,National Science Foundation
+consumerprotection.gov,Federal - Executive,,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,deleted,2026-01-29 06:23:52+00:00,1769667832.0,Consumer Financial Protection Bureau
+consumerfinancialbureau.gov,Federal - Executive,,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,deleted,2026-01-29 06:23:52+00:00,1769667832.0,Consumer Financial Protection Bureau
+sac.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,Small Agency Council
+nsf.gov,Federal - Executive,,National Science Foundation,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-01-29 06:23:52+00:00,1769667832.0,U.S. National Science Foundation
+intelink.gov,Federal - Executive,,Office of the Director of National Intelligence,Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
+fcsm.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration 
+dotideahub.gov,Federal - Executive,,Department of Transportation,Washington,DC,vulnerabilitydisclosure@faa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,U.S. Department of Transportation Office of the Chief Information Officer 
 dot.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 dot.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Department of Transportation
+gsafleet.gov,Federal - Executive,,General Services Administration,Washington DC,DC,anthony.konkwo@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
+paymentaccuracy.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
 intelligence.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - Public Affairs Office
-intelink.gov,Federal - Executive,,Office of the Director of National Intelligence,Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
 intelink.gov,Federal - Executive,,Director of National Intelligence,Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
 iarpa-ideas.gov,Federal - Executive,,Office of the Director of National Intelligence,McLean,VA,ideas_licensing@serco-na.com,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 iarpa-ideas.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,ideas_licensing@serco-na.com,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Director of National Intelligence
 iarpa.gov,Federal - Executive,,Office of the Director of National Intelligence,College Park,MD,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,ODNI - IARPA
 iarpa.gov,Federal - Executive,,Director of National Intelligence,College Park,MD,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,ODNI - IARPA
 dni.gov,Federal - Executive,,Office of the Director of National Intelligence,McLean,VA,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Directorate of National Intelligence
-dotideahub.gov,Federal - Executive,,Department of Transportation,Washington,DC,vulnerabilitydisclosure@faa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,U.S. Department of Transportation Office of the Chief Information Officer
-dni.gov,Federal - Executive,,Director of National Intelligence,McLean,VA,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Directorate of National Intelligence
 ce-ncsc.gov,Federal - Executive,,Office of the Director of National Intelligence,McLean,VA,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
-dotideahub.gov,Federal - Executive,,Department of Transportation,Washington,DC,vulnerabilitydisclosure@faa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,U.S. Department of Transportation Office of the Chief Information Officer 
-gsafleet.gov,Federal - Executive,,General Services Administration,Washington DC,DC,anthony.konkwo@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
 gsafleet.gov,Federal - Executive,,General Services Administration,Washington,DC,anthony.konkwo@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
-paymentaccuracy.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
 paymentaccuracy.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 ppms.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
 ppms.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
@@ -55,10 +56,16 @@ sam.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vu
 sam.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, FAS, System for Award Management"
 sftool.gov,Federal - Executive,,General Services Administration,Chicago,IL,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, OGP Web Portfolio"
 sftool.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, OGP Web Portfolio"
+segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,SSA/OSOHE/Division of Network Engineering 
 fcsm.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 fedrooms.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IDI, ECAS II"
 fedrooms.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IDI, ECAS II"
-ce-ncsc.gov,Federal - Executive,,Director of National Intelligence,McLean,VA,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Director of National Intelligence
+segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,SSA/OSOHE/Division of Network Engineering
+govloans.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
+dni.gov,Federal - Executive,,Director of National Intelligence,McLean,VA,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Directorate of National Intelligence
+ncix.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of the National Counterintelligence Executive - NCIX
+ncix.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the National Counterintelligence Executive - NCIX
+ise.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"Office of the Program Manager, Information Sharing Environment, Office of the DNI"
 ise.gov,Federal - Executive,,Director of National Intelligence,Washington ,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"Office of the Program Manager, Information Sharing Environment, Office of the DNI"
 intelligence.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - Public Affairs Office
 govloans.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Chief Information Officer
@@ -69,11 +76,11 @@ intel.gov,Federal - Executive,,Director of National Intelligence,McLean,VA,(blan
 icjointduty.gov,Federal - Executive,,Office of the Director of National Intelligence,McLean,VA,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 icjointduty.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Director of National Intelligence
 fbo.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
-fbo.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
+ncsc.gov,Federal - Executive,,Director of National Intelligence,Bethesda,MD,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,National Counterintelligence and Security Center
 esrs.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, FAS, System for Award Management"
 esrs.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, FAS, System for Award Management"
 cdo.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
-ise.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"Office of the Program Manager, Information Sharing Environment, Office of the DNI"
+cdo.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
 benefits.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
 benefits.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Chief Information Officer
 acquisition.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
@@ -84,27 +91,22 @@ osis.gov,Federal - Executive,,Office of the Director of National Intelligence,Fo
 osis.gov,Federal - Executive,,Director of National Intelligence,Fort Meade,MD,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
 odni.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - Public Affairs Office
 odni.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - Public Affairs Office
-segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,SSA/OSOHE/Division of Network Engineering
-fcsm.gov,Federal - Executive,,General Services Administration,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration 
-govloans.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
+fbo.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
 usability.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,
-cdo.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,General Services Administration
-segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,SSA/OSOHE/Division of Network Engineering 
+dotideahub.gov,Federal - Executive,,Department of Transportation,Washington,DC,vulnerabilitydisclosure@faa.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,U.S. Department of Transportation Office of the Chief Information Officer
+acquisition.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
 ugov.gov,Federal - Executive,,Office of the Director of National Intelligence,Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
 ugov.gov,Federal - Executive,,Director of National Intelligence,Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of Director of National Intelligence - CIO (ICES)
 nctc.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,National Counterterrorism Center
 nctc.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,National Counterterrorism Center
 ncsc.gov,Federal - Executive,,Office of the Director of National Intelligence,Bethesda,MD,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,National Counterintelligence and Security Center
-ncsc.gov,Federal - Executive,,Director of National Intelligence,Bethesda,MD,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,National Counterintelligence and Security Center
-ncix.gov,Federal - Executive,,Office of the Director of National Intelligence,Washington,DC,(blank),changed_new,2026-01-24 06:12:59+00:00,1769235179.0,Office of the National Counterintelligence Executive - NCIX
-ncix.gov,Federal - Executive,,Director of National Intelligence,Washington,DC,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the National Counterintelligence Executive - NCIX
-acquisition.gov,Federal - Executive,,General Services Administration,Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-01-24 06:12:59+00:00,1769235179.0,"GSA, IC, Acquisition"
-tps.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+ce-ncsc.gov,Federal - Executive,,Director of National Intelligence,McLean,VA,(blank),changed_old,2026-01-24 06:12:59+00:00,1769235179.0,Office of the Director of National Intelligence
 unitedstatescongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
-unitedstatescongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 jewishheritage.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 jewishheritage.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 jewishheritagemonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+jewishheritagemonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+literacy.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 rl.gov,Federal - Executive,,Department of Energy,Richland,WA,jason_r_dandridge@rl.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Hanford Mission Integration Solutions
 hanford.gov,Federal - Executive,,Department of Energy,Richland,WA,NCC@rl.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,Hanford Mission Integration Solutions
 hanford.gov,Federal - Executive,,Department of Energy,Richland,WA,jason_r_dandridge@rl.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Hanford Mission Integration Solutions
@@ -118,28 +120,28 @@ dotgov.gov,Federal,,.gov Administration,Arlington,VA,(blank),changed_old,2026-01
 domainops.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,Council of Test Administration
 domainops.gov,Federal,,.gov Administration,Ashburn,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Council of Test Administration
 dns.gov,Federal,,.gov Administration,Arlington,VA,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Infrastructure Commission
-tps.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-jewishheritagemonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+unitedstatescongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 lctl.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-womenshistorymonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-womenshistorymonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
-uscongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-uscongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 libraryofcongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 libraryofcongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-loctest.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
-dns.gov,Federal - Executive,,.gov Administration,Arlington,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,Infrastructure Commission
-loctps.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
-loctps.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 lis.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+womenshistorymonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+womenshistorymonth.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+loctest.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+loctest.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+loctps.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+dns.gov,Federal - Executive,,.gov Administration,Arlington,VA,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,Infrastructure Commission
+uscongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+uscongress.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 lis.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-literacy.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 read.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 section108.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 section108.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 thomas.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 thomas.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
-loctest.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+tps.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
+tps.gov,Federal - Legislative,,Library of Congress,Washington,DC,(blank),changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
+loctps.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 asianpacificheritage.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
 americaslibrary.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_new,2026-01-21 06:15:42+00:00,1768976142.0,
 americaslibrary.gov,Federal - Legislative,,Library of Congress,Washington,DC,security@loc.gov,changed_old,2026-01-21 06:15:42+00:00,1768976142.0,Library of Congress
@@ -1208,22 +1210,22 @@ republicanwhip.gov,Federal - Legislative,,United States House of Representatives
 republicanwhip.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 republicans.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House Republican Conference
 republicans.gov,Federal - Legislative,United States House of Representatives,House Republican Conference,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
-achp.gov,Federal - Executive,,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Advisory Council on Historic Preservation
 ushouse.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 ushouse.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House of Representatives
 ushr.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
+ppdcecc.gov,Federal - Legislative,United States House of Representatives,Congressional-Executive Commission on China,Washington,DC,(blank),changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 coldcaserecords.gov,Federal - Executive,,Civil Rights Cold Case Records Review Board,Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Civil Rights Cold Case Records Review Board
-minoritywhip.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House of Representatives
 minoritywhip.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 majoritywhip.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Office of the Majority Whip
 jct.gov,Federal - Legislative,United States House of Representatives,"The Joint Committee on Taxation, United States Congress",Washington,DC,(blank),changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 housenewsletters.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House of Representatives
-achp.gov,Federal - Executive,Advisory Council on Historic Preservation,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
-acus.gov,Federal - Executive,,Administrative Conference of the United States,Washington,DC,info@acus.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Administrative Conference of the United States
 housenewsletters.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 houselive.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House of Representatives
+achp.gov,Federal - Executive,,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Advisory Council on Historic Preservation
+achp.gov,Federal - Executive,Advisory Council on Historic Preservation,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
+acus.gov,Federal - Executive,,Administrative Conference of the United States,Washington,DC,info@acus.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,Administrative Conference of the United States
 houselive.gov,Federal - Legislative,United States House of Representatives,US House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
-ppdcecc.gov,Federal - Legislative,United States House of Representatives,Congressional-Executive Commission on China,Washington,DC,(blank),changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
+minoritywhip.gov,Federal - Legislative,,United States House of Representatives,Washington,DC,richard.martins@mail.house.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,House of Representatives
 cftc.gov,Federal - Executive,Commodity Futures Trading Commission,Commodity Futures Trading Commission,Washington,DC,Security_VDP@cftc.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
 cftc.gov,Federal - Executive,,Commodity Futures Trading Commission,Washington,DC,Security_VDP@cftc.gov,changed_new,2026-01-10 06:12:23+00:00,1768025543.0,
 preserveamerica.gov,Federal - Executive,Advisory Council on Historic Preservation,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,changed_old,2026-01-10 06:12:23+00:00,1768025543.0,
