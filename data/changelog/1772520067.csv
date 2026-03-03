@@ -1,0 +1,213 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+lca.gov,Federal - Executive,Department of the Interior,United States Geological Survey,Washington,DC,security@doi.gov,deleted,2026-03-03 06:41:07+00:00,1772520067
+watermonitor.gov,Federal - Executive,Department of the Interior,United States Geological Survey,Washington,DC,security@usgs.gov,deleted,2026-03-03 06:41:07+00:00,1772520067
+budgetlob.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+budgetlob.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+childstats.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+childstats.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+collegenavigator.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+collegenavigator.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ed.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ed.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+foreignfundinghighered.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+foreignfundinghighered.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+g5.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+g5.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+nagb.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+nagb.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+nationsreportcard.gov,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+nationsreportcard.gov,Federal - Executive,Department of Education,Office of the Chief Information Officer,Washington,DC,EDSOC@ed.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+hud.gov,Federal - Executive,Department of Housing and Urban Development,Web Master Public Affairs,Washington,DC,vdp@hud.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+hud.gov,Federal - Executive,Department of Housing and Urban Development,Assistant Secretary for Public Affairs,Washington,DC,vdp@hud.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fhfaoig.gov,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency Office of Inspector General,Washington,DC,ReportAbuse@fhfaoig.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fhfaoig.gov,Federal - Executive,Federal Housing Finance Agency,Office of Inspector General,Washington,DC,ReportAbuse@fhfaoig.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+exploretsp.gov,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+exploretsp.gov,Federal - Executive,Federal Retirement Thrift Investment Board,,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+frtib.gov,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+frtib.gov,Federal - Executive,Federal Retirement Thrift Investment Board,,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+frtibtest.gov,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+frtibtest.gov,Federal - Executive,Federal Retirement Thrift Investment Board,,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+tsp.gov,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+tsp.gov,Federal - Executive,Federal Retirement Thrift Investment Board,,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+tsptest.gov,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+tsptest.gov,Federal - Executive,Federal Retirement Thrift Investment Board,,Washington,DC,VulnerabilityDisclosure@frtib.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+alertaenlinea.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+alertaenlinea.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+consumer.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+consumer.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+consumersentinel.gov,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+consumersentinel.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+consumidor.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+consumidor.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+donotcall.gov,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+donotcall.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+dontserveteens.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+dontserveteens.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+econsumer.gov,Federal - Executive,Federal Trade Commission,Office of Internal Affairs (OIA),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+econsumer.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ftc.gov,Federal - Executive,Federal Trade Commission,Office of Public Affairs (OPA),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ftc.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+hsr.gov,Federal - Executive,Federal Trade Commission,Premerger Notification Office (PNO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+hsr.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+identitytheft.gov,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+identitytheft.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+militaryconsumer.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+militaryconsumer.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+onguardonline.gov,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+onguardonline.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+robodeidentidad.gov,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+robodeidentidad.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+sentinel.gov,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+sentinel.gov,Federal - Executive,Federal Trade Commission,,Washington,DC,security@ftc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+facadatabase.gov,Federal - Executive,General Services Administration,"GSA, IDI, Enterprise Application Services",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+facadatabase.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+faca.gov,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+faca.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fapiis.gov,Federal - Executive,General Services Administration,"GSA, IQ, IAE",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fapiis.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fbf.gov,Federal - Executive,General Services Administration,"GSA, IQ-CAP",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fbf.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fdms.gov,Federal - Executive,General Services Administration,"GSA, IQ, eRulemaking",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fdms.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fedidcard.gov,Federal - Executive,General Services Administration,"GSA, IQ, CAT",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fedidcard.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fedrooms.gov,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fedrooms.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fpds.gov,Federal - Executive,General Services Administration,"GSA, IQ-FPDS-FPDS Portal",Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fpds.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fpki.gov,Federal - Executive,General Services Administration,"GSA, Q-FPKI",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fpki.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fpki-lab.gov,Federal - Executive,General Services Administration,"GSA, Q-FPKI",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fpki-lab.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fsd.gov,Federal - Executive,General Services Administration,"GSA, IQ-FSD-FSD Portal",Arlington,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fsd.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fsrs.gov,Federal - Executive,General Services Administration,"GSA, IQ-ESRS-FSRS",Crystal City,VA,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fsrs.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+gsaadvantage.gov,Federal - Executive,General Services Administration,"GSA, IQ-GSAAdvantage-Main",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+gsaadvantage.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+gsaauctions.gov,Federal - Executive,General Services Administration,"GSA, IQ-SASy-GSAAuctions",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+gsaauctions.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+gsa.gov,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+gsa.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+gsatest2.gov,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+gsatest2.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ptt.gov,Federal - Executive,General Services Administration,"GSA, IDI, Presidential Transition Team",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ptt.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+realpropertyprofile.gov,Federal - Executive,General Services Administration,"GSA, IDI,EAS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+realpropertyprofile.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+reginfo.gov,Federal - Executive,General Services Administration,"GSA, IC, ROCIS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+reginfo.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+regulations.gov,Federal - Executive,General Services Administration,"GSA, IQ, eRulemaking",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+regulations.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+reporting.gov,Federal - Executive,General Services Administration,"GSA, IDI, EAS-SF",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+reporting.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+rocis.gov,Federal - Executive,General Services Administration,"GSA, IC, ROCIS",Washington,DC,gsa-vulnerability-reports@gsa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+rocis.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+kennedy-center.gov,Federal - Executive,John F. Kennedy Center for the Performing Arts,John F Kennedy Center for Performing Arts,Washington,DC,hostmaster@kennedy-center.org,changed_old,2026-03-03 06:41:07+00:00,1772520067
+kennedy-center.gov,Federal - Executive,John F. Kennedy Center for the Performing Arts,,Washington,DC,hostmaster@kennedy-center.org,changed_new,2026-03-03 06:41:07+00:00,1772520067
+usgeo.gov,Federal - Executive,National Aeronautics and Space Administration,NASA Langley Research Center,Huntsville,AL,soc@nasa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usgeo.gov,Federal - Executive,National Aeronautics and Space Administration,Langley Research Center,Huntsville,AL,soc@nasa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+clintonlibrary.gov,Federal - Executive,National Archives and Records Administration,William Clinton Presidential Library,Little Rock,AR,security-vdp@nara.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+clintonlibrary.gov,Federal - Executive,National Archives and Records Administration,,College Park,MD,security-vdp@nara.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fordlibrarymuseum.gov,Federal - Executive,National Archives and Records Administration,Gerald R. Ford Library and Museum,College Park,MD,security-vdp@nara.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fordlibrarymuseum.gov,Federal - Executive,National Archives and Records Administration,,College Park,MD,security-vdp@nara.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+jimmycarterlibrary.gov,Federal - Executive,National Archives and Records Administration,Jimmy Carter Library & Museum,College Park,MD,security-vdp@nara.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+jimmycarterlibrary.gov,Federal - Executive,National Archives and Records Administration,,College Park,MD,security-vdp@nara.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+nixonlibrary.gov,Federal - Executive,National Archives and Records Administration,NPOL,College Park,MD,security-vdp@nara.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+nixonlibrary.gov,Federal - Executive,National Archives and Records Administration,,College Park,MD,security-vdp@nara.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+reaganlibrary.gov,Federal - Executive,National Archives and Records Administration,Policy and Planning,College Park,MD,security-vdp@nara.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+reaganlibrary.gov,Federal - Executive,National Archives and Records Administration,,College Park,MD,security-vdp@nara.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+sac.gov,Federal - Executive,National Science Foundation,Small Agency Council,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+sac.gov,Federal - Executive,National Science Foundation,,Alexandria,VA,OCIO-Secteam@nsf.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+usap.gov,Federal - Executive,National Science Foundation,"National Science Foundation, Office of Polar Programs",Alexandria,VA,NSF-USAP-InfoSec@nsf.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usap.gov,Federal - Executive,National Science Foundation,,Alexandria,VA,NSF-USAP-InfoSec@nsf.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+applicationmanager.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,cybersolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+applicationmanager.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,cybersolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+chcoc.gov,Federal - Executive,Office of Personnel Management,Chief Human Capital Officers Council,Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+chcoc.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+cybercareers.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+cybercareers.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+employeeexpress.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+employeeexpress.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+feb.gov,Federal - Executive,Office of Personnel Management,Employee Services (ES),Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+feb.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+federaljobs.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+federaljobs.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fedjobs.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fedjobs.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fedshirevets.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fedshirevets.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fegli.gov,Federal - Executive,Office of Personnel Management,Healthcare and Insurance (HI),Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fegli.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+fsafeds.gov,Federal - Executive,Office of Personnel Management,Healthcare and Insurance (HI),Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+fsafeds.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+governmentjobs.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+governmentjobs.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+pac.gov,Federal - Executive,Office of Personnel Management,"Security, Suitability, and Credentialing Line of Business (SSCLoB)",Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+pac.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+unlocktalent.gov,Federal - Executive,Office of Personnel Management,Human Capital Data Management and Modernization (HCDMM),Washington,DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+unlocktalent.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+usajobs.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,CyberSolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usajobs.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,CyberSolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+usastaffing.gov,Federal - Executive,Office of Personnel Management,Human Resource Solutions (HRS),"Washington, DC",DC,cybersolutions@opm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usastaffing.gov,Federal - Executive,Office of Personnel Management,,"Washington, DC",DC,cybersolutions@opm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+dni.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Directorate of National Intelligence,McLean,VA,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+dni.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+iarpa.gov,Federal - Executive,Office of the Director of National Intelligence,ODNI - IARPA,College Park,MD,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+iarpa.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+intelink.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Director of National Intelligence - CIO (ICES),Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+intelink.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,ismc-networkadmin@ugov.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+intelligence.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Director of National Intelligence - Public Affairs Office,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+intelligence.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+ise.gov,Federal - Executive,Office of the Director of National Intelligence,"Office of the Program Manager, Information Sharing Environment, Office of the DNI",Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+ise.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+ncix.gov,Federal - Executive,Office of the Director of National Intelligence,Office of the National Counterintelligence Executive - NCIX,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+ncix.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+ncsc.gov,Federal - Executive,Office of the Director of National Intelligence,National Counterintelligence and Security Center,Bethesda,MD,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+ncsc.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+nctc.gov,Federal - Executive,Office of the Director of National Intelligence,National Counterterrorism Center,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+nctc.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+odni.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Director of National Intelligence - Public Affairs Office,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+odni.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+osis.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Director of National Intelligence - CIO (ICES),Fort Meade,MD,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+osis.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+ugov.gov,Federal - Executive,Office of the Director of National Intelligence,Office of Director of National Intelligence - CIO (ICES),Fort Meade,MD,ismc-networkadmin@ugov.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ugov.gov,Federal - Executive,Office of the Director of National Intelligence,,McLean,VA,ismc-networkadmin@ugov.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+techcorps.gov,Federal - Executive,Peace Corps,Office of the CIO,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+techcorps.gov,Federal - Executive,Peace Corps,,Washington,DC,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+rrb.gov,Federal - Executive,Railroad Retirement Board,Bureau of Information Services,Chicago,IL,security@rrb.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+rrb.gov,Federal - Executive,Railroad Retirement Board,,Chicago,IL,security@rrb.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+sbir.gov,Federal - Executive,Small Business Administration,Office of Innovation & Technology,Washington,DC,CISO@sba.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+sbir.gov,Federal - Executive,Small Business Administration,,Washington,DC,CISO@sba.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+segurosocial.gov,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+segurosocial.gov,Federal - Executive,Social Security Administration,,Baltimore,MD,joe.cunningham@ssa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+socialsecurity.gov,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+socialsecurity.gov,Federal - Executive,Social Security Administration,,Baltimore,MD,joe.cunningham@ssa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ssa.gov,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ssa.gov,Federal - Executive,Social Security Administration,,Baltimore,MD,joe.cunningham@ssa.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+tva.gov,Federal - Executive,Tennessee Valley Authority,TVA IT,Knoxville,TN,vdp@tva.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+tva.gov,Federal - Executive,Tennessee Valley Authority,,Knoxville,TN,vdp@tva.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ustda.gov,Federal - Executive,U.S. Trade and Development Agency,US Trade and Development Agency,Arlington,VA,avicchiollo@ustda.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ustda.gov,Federal - Executive,U.S. Trade and Development Agency,,Arlington,VA,avicchiollo@ustda.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+bbg.gov,Federal - Executive,United States Agency for Global Media,IBB/VOA/BBG,Washington,DC,it-security@usagm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+bbg.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,it-security@usagm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ibab.gov,Federal - Executive,United States Agency for Global Media,International Broadcasting Advisory Board,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+ibab.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+ibb.gov,Federal - Executive,United States Agency for Global Media,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ibb.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,it-security@usagm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+ocb.gov,Federal - Executive,United States Agency for Global Media,Office of Cuba Broadcasting,Doral,FL,it-security@usagm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+ocb.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,it-security@usagm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+usagm.gov,Federal - Executive,United States Agency for Global Media,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usagm.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,it-security@usagm.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+uspsoig.gov,Federal - Executive,United States Postal Service,Office of Inspector General,Arlington,VA,IncidentReport@uspsoig.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+uspsoig.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,IncidentReport@uspsoig.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+scuspd.gov,Federal - Judicial,Supreme Court of the United States,Supreme Court Police,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+scuspd.gov,Federal - Judicial,Supreme Court of the United States,,Washington,DC,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+fasab.gov,Federal - Legislative,Government Accountability Office,FASAB,Washington,DC,(blank),changed_old,2026-03-03 06:41:07+00:00,1772520067
+fasab.gov,Federal - Legislative,Government Accountability Office,,Washington,DC,(blank),changed_new,2026-03-03 06:41:07+00:00,1772520067
+usgovernmentmanual.gov,Federal - Legislative,Government Publishing Office,Office of Federal Register (NF),College Park,MD,gpossl@gpo.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+usgovernmentmanual.gov,Federal - Legislative,Government Publishing Office,,Washington,DC,gpossl@gpo.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+crb.gov,Federal - Legislative,Library of Congress,Copyright Royalty Board,Washington,DC,security@loc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+crb.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
+crs.gov,Federal - Legislative,Library of Congress,Congressional Research Service,Washington,DC,security@loc.gov,changed_old,2026-03-03 06:41:07+00:00,1772520067
+crs.gov,Federal - Legislative,Library of Congress,,Washington,DC,security@loc.gov,changed_new,2026-03-03 06:41:07+00:00,1772520067
