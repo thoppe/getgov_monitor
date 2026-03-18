@@ -1,49 +1,51 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
+alien.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-03-18 06:34:25+00:00,1773815665.0,White House Office
+aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-03-18 06:34:25+00:00,1773815665.0,White House Office
 explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,added,2026-03-17 06:33:35+00:00,1773729215.0,White House Office
-sec.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_new,2026-03-13 06:27:53+00:00,1773383273.0,
 sec.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_old,2026-03-13 06:27:53+00:00,1773383273.0,Network Operations Branch
-nigc.gov,Federal - Executive,,National Indian Gaming Commission,Washington,DC,itsupport@nigc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
-nigc.gov,Federal - Executive,,Department of the Interior,Washington,DC,itsupport@nigc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,National Indian Gaming Commission
+sec.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_new,2026-03-13 06:27:53+00:00,1773383273.0,
 aiexports.gov,Federal - Executive,,Department of Commerce,Washington,DC,opsec@trade.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,International Trade Administration
+uscurrency.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,external.incident.reporting@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
+adr.gov,Federal - Executive,,Federal Mediation and Conciliation Service,Washington,DC,security@fmcs.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Office of Conflict Management and Prevention
 supervisioncentral.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,(blank),changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 federalreserveconsumerhelp.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 federalreserve.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Federal Reserve Bank
 fbiic.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,The Financial and Banking Information Infrastructure Committee
 federalreserveconsumerhelp.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Board of Governors of the Federal Reserve
-supervisioncentral.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,(blank),changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Division of Information Technology
+nigc.gov,Federal - Executive,,National Indian Gaming Commission,Washington,DC,itsupport@nigc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 billetes.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 fbiic.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,The Financial and Banking Information Infrastructure Committee
 billetes.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+nigc.gov,Federal - Executive,,Department of the Interior,Washington,DC,itsupport@nigc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,National Indian Gaming Commission
 usidfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-usidfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
 oasis.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-oasis.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
+supervisioncentral.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,(blank),changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Division of Information Technology
 frs.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
-newmoney.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+oasis.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 newmoney.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
-frs.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+newmoney.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+ffiec.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,Federal Financial Institutions Examination Council
 ffiec.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Federal Financial Institutions Examination Council
-fedres.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,external.incident.reporting@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 fedres.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,external.incident.reporting@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
+fedres.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,external.incident.reporting@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 fedpartnership.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-aiexports.gov,Federal - Executive,,Department of Commerce,Washington,DC,(blank),changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 frb.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 frb.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
-ffiec.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,Federal Financial Institutions Examination Council
+frs.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+usdfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
 opic.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 opic.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
-idfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 fedezfile.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,(blank),changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
+investor.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Network Operations Branch
 adr.gov,Federal - Executive,,Federal Mediation and Conciliation Service,Washington,DC,security@fmcs.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-adr.gov,Federal - Executive,,Federal Mediation and Conciliation Service,Washington,DC,security@fmcs.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Office of Conflict Management and Prevention
+usidfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
 usdfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-usdfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
+idfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
 dfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 dfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
+idfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
 investor.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,
-idfc.gov,Federal - Executive,,United States International Development Finance Corporation,Washington,DC,ciso@dfc.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,US International Development Finance Corporation
-investor.gov,Federal - Executive,,Securities and Exchange Commission,Washington,DC,security@sec.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,Network Operations Branch
-uscurrency.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,external.incident.reporting@frb.gov,changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
+aiexports.gov,Federal - Executive,,Department of Commerce,Washington,DC,(blank),changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 fedezfile.gov,Federal - Executive,,Federal Reserve Board of Governors,Washington,DC,(blank),changed_old,2026-03-12 06:27:32+00:00,1773296852.0,
 federalreserve.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,Federal Reserve Bank
 uscurrency.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,external.incident.reporting@frb.gov,changed_new,2026-03-12 06:27:32+00:00,1773296852.0,

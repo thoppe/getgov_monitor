@@ -9,28 +9,30 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
+| [alien.gov](https://alien.gov)                                                         | nan                                                                              | ✅  | 2026-03-18 |
+| [aliens.gov](https://aliens.gov)                                                       | nan                                                                              | ✅  | 2026-03-18 |
 | [explore.gov](https://explore.gov)                                                     | nan                                                                              | ✅  | 2026-03-17 |
 | [sec.gov](https://sec.gov)                                                             | nan                                                                              | ✏️ | 2026-03-13 |
-| [nigc.gov](https://nigc.gov)                                                           | nan                                                                              | ✏️ | 2026-03-12 |
 | [aiexports.gov](https://aiexports.gov)                                                 | nan                                                                              | ✏️ | 2026-03-12 |
 | [supervisioncentral.gov](https://supervisioncentral.gov)                               | nan                                                                              | ✏️ | 2026-03-12 |
 | [federalreserveconsumerhelp.gov](https://federalreserveconsumerhelp.gov)               | nan                                                                              | ✏️ | 2026-03-12 |
 | [fbiic.gov](https://fbiic.gov)                                                         | nan                                                                              | ✏️ | 2026-03-12 |
 | [billetes.gov](https://billetes.gov)                                                   | nan                                                                              | ✏️ | 2026-03-12 |
+| [nigc.gov](https://nigc.gov)                                                           | nan                                                                              | ✏️ | 2026-03-12 |
 | [usidfc.gov](https://usidfc.gov)                                                       | nan                                                                              | ✏️ | 2026-03-12 |
 | [oasis.gov](https://oasis.gov)                                                         | nan                                                                              | ✏️ | 2026-03-12 |
 | [newmoney.gov](https://newmoney.gov)                                                   | nan                                                                              | ✏️ | 2026-03-12 |
-| [frs.gov](https://frs.gov)                                                             | nan                                                                              | ✏️ | 2026-03-12 |
+| [ffiec.gov](https://ffiec.gov)                                                         | nan                                                                              | ✏️ | 2026-03-12 |
 | [fedres.gov](https://fedres.gov)                                                       | nan                                                                              | ✏️ | 2026-03-12 |
 | [fedpartnership.gov](https://fedpartnership.gov)                                       | nan                                                                              | ✏️ | 2026-03-12 |
 | [frb.gov](https://frb.gov)                                                             | nan                                                                              | ✏️ | 2026-03-12 |
-| [ffiec.gov](https://ffiec.gov)                                                         | nan                                                                              | ✏️ | 2026-03-12 |
+| [frs.gov](https://frs.gov)                                                             | nan                                                                              | ✏️ | 2026-03-12 |
 | [opic.gov](https://opic.gov)                                                           | nan                                                                              | ✏️ | 2026-03-12 |
-| [idfc.gov](https://idfc.gov)                                                           | nan                                                                              | ✏️ | 2026-03-12 |
 | [fedezfile.gov](https://fedezfile.gov)                                                 | nan                                                                              | ✏️ | 2026-03-12 |
 | [adr.gov](https://adr.gov)                                                             | nan                                                                              | ✏️ | 2026-03-12 |
 | [usdfc.gov](https://usdfc.gov)                                                         | nan                                                                              | ✏️ | 2026-03-12 |
 | [dfc.gov](https://dfc.gov)                                                             | nan                                                                              | ✏️ | 2026-03-12 |
+| [idfc.gov](https://idfc.gov)                                                           | nan                                                                              | ✏️ | 2026-03-12 |
 | [investor.gov](https://investor.gov)                                                   | nan                                                                              | ✏️ | 2026-03-12 |
 | [federalreserve.gov](https://federalreserve.gov)                                       | nan                                                                              | ✏️ | 2026-03-12 |
 | [uscurrency.gov](https://uscurrency.gov)                                               | nan                                                                              | ✏️ | 2026-03-12 |
