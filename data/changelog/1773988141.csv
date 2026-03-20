@@ -1,0 +1,45 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+productofusa.gov,Federal - Executive,Department of Agriculture,Office of Communications,Washington,DC,(blank),added,2026-03-20 06:29:01+00:00,1773988141
+fedrooms.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-03-20 06:29:01+00:00,1773988141
+gsatest2.gov,Federal - Executive,General Services Administration,Office of GSA IT,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-03-20 06:29:01+00:00,1773988141
+tmdbhouse.gov,Federal - Legislative,United States House of Representatives,House of Representatives,Washington,DC,(blank),deleted,2026-03-20 06:29:01+00:00,1773988141
+arctic.gov,Federal - Executive,National Science Foundation,U.S. Arctic Research Commission,Arlington,VA,dallas@sec-data-eng.com,changed_old,2026-03-20 06:29:01+00:00,1773988141
+arctic.gov,Federal - Executive,Arctic Research Commission,,Arlington,VA,dallas@sec-data-eng.com,changed_new,2026-03-20 06:29:01+00:00,1773988141
+fmc.gov,Federal - Executive,Federal Maritime Commission,,Washington,DC,oit-maritime@fmc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+fmc.gov,Federal - Executive,Federal Maritime Commission,,Washington,DC,itsupport@fmc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+ich.gov,Federal - Executive,U.S. Interagency Council on Homelessness,United States Interagency Council on Homelessness,Washington,DC,(blank),changed_old,2026-03-20 06:29:01+00:00,1773988141
+ich.gov,Federal - Executive,U.S. Interagency Council on Homelessness,United States Interagency Council on Homelessness,District Heights,MD,(blank),changed_new,2026-03-20 06:29:01+00:00,1773988141
+usich.gov,Federal - Executive,U.S. Interagency Council on Homelessness,United States Interagency Council on Homelessness,Washington,DC,(blank),changed_old,2026-03-20 06:29:01+00:00,1773988141
+usich.gov,Federal - Executive,U.S. Interagency Council on Homelessness,United States Interagency Council on Homelessness,District Heights,MD,(blank),changed_new,2026-03-20 06:29:01+00:00,1773988141
+fjc.gov,Federal - Judicial,Administrative Office of the United States Courts,Federal Judicial Center,Washington,DC,(blank),changed_old,2026-03-20 06:29:01+00:00,1773988141
+fjc.gov,Federal - Judicial,Federal Judicial Center,,Washington,DC,(blank),changed_new,2026-03-20 06:29:01+00:00,1773988141
+ussc.gov,Federal - Judicial,Administrative Office of the United States Courts,United States Sentencing Commission,"Washington, D",DC,tss@ussc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+ussc.gov,Federal - Judicial,United States Sentencing Commission,,Washington,DC,tss@ussc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+ustaxcourt.gov,Federal - Judicial,Administrative Office of the United States Courts,United States Tax Court,Washington,DC,Domain.Security@ustaxcourt.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+ustaxcourt.gov,Federal - Judicial,United States Tax Court,,Washington,DC,Domain.Security@ustaxcourt.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+aoc.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+aoc.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+capitalgiftshop.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+capitalgiftshop.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+capital.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+capital.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+capitolgiftshop.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+capitolgiftshop.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+capitol.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+capitol.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+usbg.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+usbg.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+uscapitalgiftshop.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+uscapitalgiftshop.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+uscapital.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+uscapital.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+uscapitolgiftshop.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+uscapitolgiftshop.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+uscapitolgiftstore.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+uscapitolgiftstore.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+uscapitol.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+uscapitol.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+visitthecapital.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+visitthecapital.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
+visitthecapitol.gov,Federal - Legislative,Architect of the Capitol,Architect of the Capitol,Washington,DC,DOMSEC@aoc.gov,changed_old,2026-03-20 06:29:01+00:00,1773988141
+visitthecapitol.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov,changed_new,2026-03-20 06:29:01+00:00,1773988141
