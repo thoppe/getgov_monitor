@@ -1,0 +1,6 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+nasaforce.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank),added,2026-04-15 06:51:56+00:00,1776235916
+lps.gov,Federal - Executive,Department of Defense,National Security Agency,Fort Meade,MD,(blank),changed_old,2026-04-15 06:51:56+00:00,1776235916
+lps.gov,Federal - Executive,Department of Defense,National Security Agency,Fort Meade,MD,wes@lps.umd.edu,changed_new,2026-04-15 06:51:56+00:00,1776235916
+hud.gov,Federal - Executive,Department of Housing and Urban Development,Assistant Secretary for Public Affairs,Washington,DC,vdp@hud.gov,changed_old,2026-04-15 06:51:56+00:00,1776235916
+hud.gov,Federal - Executive,Department of Housing and Urban Development,,Washington,DC,vdp@hud.gov,changed_new,2026-04-15 06:51:56+00:00,1776235916
