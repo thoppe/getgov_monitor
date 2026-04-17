@@ -9,24 +9,26 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
-| [jwod.gov](https://jwod.gov)                                                           | nan                                                                              | ✏️ | 2026-04-16 |
+| [nhl.gov](https://nhl.gov)                                                             | nan                                                                              | ❌  | 2026-04-17 |
+| [nls.gov](https://nls.gov)                                                             | nan                                                                              | ❌  | 2026-04-17 |
 | [abilityone.gov](https://abilityone.gov)                                               | nan                                                                              | ✏️ | 2026-04-16 |
+| [jwod.gov](https://jwod.gov)                                                           | nan                                                                              | ✏️ | 2026-04-16 |
+| [hud.gov](https://hud.gov)                                                             | nan                                                                              | ✏️ | 2026-04-15 |
 | [lps.gov](https://lps.gov)                                                             | nan                                                                              | ✏️ | 2026-04-15 |
 | [nasaforce.gov](https://nasaforce.gov)                                                 | nan                                                                              | ✅  | 2026-04-15 |
-| [hud.gov](https://hud.gov)                                                             | nan                                                                              | ✏️ | 2026-04-15 |
 | [techprosperitycorps.gov](https://techprosperitycorps.gov)                             | nan                                                                              | ✅  | 2026-04-14 |
-| [arpa-h.gov](https://arpa-h.gov)                                                       | nan                                                                              | ✏️ | 2026-04-09 |
 | [arpah.gov](https://arpah.gov)                                                         | nan                                                                              | ✏️ | 2026-04-09 |
+| [arpa-h.gov](https://arpa-h.gov)                                                       | nan                                                                              | ✏️ | 2026-04-09 |
 | [goldwaterinternship.gov](https://goldwaterinternship.gov)                             | nan                                                                              | ✅  | 2026-04-08 |
 | [aocoig.gov](https://aocoig.gov)                                                       | nan                                                                              | ✅  | 2026-04-08 |
-| [whdpc.gov](https://whdpc.gov)                                                         | nan                                                                              | ❌  | 2026-04-07 |
-| [civilrightsusa.gov](https://civilrightsusa.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
-| [internetforall.gov](https://internetforall.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
-| [workwithusaid.gov](https://workwithusaid.gov)                                         | nan                                                                              | ❌  | 2026-04-07 |
 | [ipcc-wg3.gov](https://ipcc-wg3.gov)                                                   | nan                                                                              | ❌  | 2026-04-07 |
+| [civilrightsusa.gov](https://civilrightsusa.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
 | [internet4all.gov](https://internet4all.gov)                                           | nan                                                                              | ❌  | 2026-04-07 |
-| [launch.gov](https://launch.gov)                                                       | nan                                                                              | ✅  | 2026-04-02 |
+| [whdpc.gov](https://whdpc.gov)                                                         | nan                                                                              | ❌  | 2026-04-07 |
+| [workwithusaid.gov](https://workwithusaid.gov)                                         | nan                                                                              | ❌  | 2026-04-07 |
+| [internetforall.gov](https://internetforall.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
 | [live.gov](https://live.gov)                                                           | nan                                                                              | ✅  | 2026-04-02 |
+| [launch.gov](https://launch.gov)                                                       | nan                                                                              | ✅  | 2026-04-02 |
 | [srnl.gov](https://srnl.gov)                                                           | nan                                                                              | ✏️ | 2026-04-01 |
 | [usdoscloud.gov](https://usdoscloud.gov)                                               | nan                                                                              | ✏️ | 2026-03-28 |
 | [nbib.gov](https://nbib.gov)                                                           | nan                                                                              | ❌  | 2026-03-27 |

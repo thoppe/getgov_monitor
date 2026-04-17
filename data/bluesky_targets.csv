@@ -1,30 +1,32 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
-jwod.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,networksupport@abilityone.gov,changed_new,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
-abilityone.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,eyang@abilityone.gov,changed_old,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
-jwod.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,eyang@abilityone.gov,changed_old,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
+nhl.gov,Federal - Executive,,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,deleted,2026-04-17 06:50:11+00:00,1776408611.0,
+nls.gov,Federal - Executive,,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,deleted,2026-04-17 06:50:11+00:00,1776408611.0,
 abilityone.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,networksupport@abilityone.gov,changed_new,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
-lps.gov,Federal - Executive,,Department of Defense,Fort Meade,MD,wes@lps.umd.edu,changed_new,2026-04-15 06:51:56+00:00,1776235916.0,National Security Agency
-nasaforce.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-04-15 06:51:56+00:00,1776235916.0,White House Office
+jwod.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,networksupport@abilityone.gov,changed_new,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
+jwod.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,eyang@abilityone.gov,changed_old,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
+abilityone.gov,Federal - Executive,,United States AbilityOne Commission,Washington,DC,eyang@abilityone.gov,changed_old,2026-04-16 06:51:12+00:00,1776322272.0,Committee for Purchase From People Who Are Blind or Severely Disabled
+hud.gov,Federal - Executive,,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,changed_old,2026-04-15 06:51:56+00:00,1776235916.0,Assistant Secretary for Public Affairs
 hud.gov,Federal - Executive,,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,changed_new,2026-04-15 06:51:56+00:00,1776235916.0,
 lps.gov,Federal - Executive,,Department of Defense,Fort Meade,MD,(blank),changed_old,2026-04-15 06:51:56+00:00,1776235916.0,National Security Agency
-hud.gov,Federal - Executive,,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,changed_old,2026-04-15 06:51:56+00:00,1776235916.0,Assistant Secretary for Public Affairs
+lps.gov,Federal - Executive,,Department of Defense,Fort Meade,MD,wes@lps.umd.edu,changed_new,2026-04-15 06:51:56+00:00,1776235916.0,National Security Agency
+nasaforce.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-04-15 06:51:56+00:00,1776235916.0,White House Office
 techprosperitycorps.gov,Federal - Executive,,Peace Corps,Washington,DC,(blank),added,2026-04-14 06:49:35+00:00,1776149375.0,
-arpa-h.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,changed_new,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
-arpah.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,cybersecurity@arpa-h.gov,changed_old,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
 arpah.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,changed_new,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
+arpah.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,cybersecurity@arpa-h.gov,changed_old,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
+arpa-h.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,changed_new,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
 arpa-h.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,cybersecurity@arpa-h.gov,changed_old,2026-04-09 06:43:58+00:00,1775717038.0,Advanced Research Projects Agency for Health
 goldwaterinternship.gov,Federal - Executive,,Barry Goldwater Scholarship and Excellence in Education Foundation,Front Royal,VA,spadgett@goldwaterscholarship.gov,added,2026-04-08 06:44:16+00:00,1775630656.0,
 aocoig.gov,Federal - Legislative,,"Architect of the Capitol, Office of Inspector General",Washington,DC,(blank),added,2026-04-08 06:44:16+00:00,1775630656.0,
-whdpc.gov,Federal - Legislative,,Western Hemisphere Drug Policy Commission,"Washington,",MD,mary.speck@whdpc.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,Western Hemisphere Drug Policy Commission
-civilrightsusa.gov,Federal - Executive,,U.S. Commission on Civil Rights,Washington,DC,ccrsoc@usccr.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,ASCD-CIO
-internetforall.gov,Federal - Executive,,Department of Commerce,Washington,DC,NTIA-SecOps@ntia.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,National Telecommunications and Information Administration
-workwithusaid.gov,Federal - Executive,,Department of State,Washington,DC,vdp@usaid.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,
 ipcc-wg3.gov,Federal - Executive,,United States Global Change Research Program,Washington,DC,admin@usgcrp.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,U.S. Global Change Research Program
+civilrightsusa.gov,Federal - Executive,,U.S. Commission on Civil Rights,Washington,DC,ccrsoc@usccr.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,ASCD-CIO
 internet4all.gov,Federal - Executive,,Department of Commerce,Washington,DC,NTIA-SecOps@ntia.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,National Telecommunications and Information Administration
-launch.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-04-02 06:38:40+00:00,1775111920.0,White House Office
+whdpc.gov,Federal - Legislative,,Western Hemisphere Drug Policy Commission,"Washington,",MD,mary.speck@whdpc.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,Western Hemisphere Drug Policy Commission
+workwithusaid.gov,Federal - Executive,,Department of State,Washington,DC,vdp@usaid.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,
+internetforall.gov,Federal - Executive,,Department of Commerce,Washington,DC,NTIA-SecOps@ntia.gov,deleted,2026-04-07 06:42:11+00:00,1775544131.0,National Telecommunications and Information Administration
 live.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-04-02 06:38:40+00:00,1775111920.0,White House Office
-srnl.gov,Federal - Executive,,Department of Energy,Aiken,SC,srnl-cyber@srnl.gov,changed_new,2026-04-01 06:47:08+00:00,1775026028.0,Savannah River National Lab
+launch.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-04-02 06:38:40+00:00,1775111920.0,White House Office
 srnl.gov,Federal - Executive,,Department of Energy,Aiken,SC,srnl-cyber@srnl.doe.gov,changed_old,2026-04-01 06:47:08+00:00,1775026028.0,Savannah River National Lab
+srnl.gov,Federal - Executive,,Department of Energy,Aiken,SC,srnl-cyber@srnl.gov,changed_new,2026-04-01 06:47:08+00:00,1775026028.0,Savannah River National Lab
 usdoscloud.gov,Federal - Executive,,Department of State,Washington,DC,VDPSubmission@state.gov,changed_new,2026-03-28 06:30:32+00:00,1774679432.0,Bureau of Diplomatic Technology (DT)
 usdoscloud.gov,Federal - Executive,,Department of State,Washington,DC,VDPSubmission@state.gov,changed_old,2026-03-28 06:30:32+00:00,1774679432.0,Bureau of Information Resources Management
 nbib.gov,Federal - Executive,,Department of Defense,Washington,DC,kevin.crews@opm.gov,deleted,2026-03-27 06:37:47+00:00,1774593467.0,Defense Counterintelligence and Security Agency
