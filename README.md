@@ -9,6 +9,8 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
+| [nationalhousinglocator.gov](https://nationalhousinglocator.gov)                       | nan                                                                              | ❌  | 2026-04-22 |
+| [nationalhousing.gov](https://nationalhousing.gov)                                     | nan                                                                              | ❌  | 2026-04-22 |
 | [nhl.gov](https://nhl.gov)                                                             | nan                                                                              | ❌  | 2026-04-17 |
 | [nls.gov](https://nls.gov)                                                             | nan                                                                              | ❌  | 2026-04-17 |
 | [abilityone.gov](https://abilityone.gov)                                               | nan                                                                              | ✏️ | 2026-04-16 |
@@ -21,11 +23,11 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [arpa-h.gov](https://arpa-h.gov)                                                       | nan                                                                              | ✏️ | 2026-04-09 |
 | [goldwaterinternship.gov](https://goldwaterinternship.gov)                             | nan                                                                              | ✅  | 2026-04-08 |
 | [aocoig.gov](https://aocoig.gov)                                                       | nan                                                                              | ✅  | 2026-04-08 |
-| [ipcc-wg3.gov](https://ipcc-wg3.gov)                                                   | nan                                                                              | ❌  | 2026-04-07 |
+| [whdpc.gov](https://whdpc.gov)                                                         | nan                                                                              | ❌  | 2026-04-07 |
 | [civilrightsusa.gov](https://civilrightsusa.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
 | [internet4all.gov](https://internet4all.gov)                                           | nan                                                                              | ❌  | 2026-04-07 |
-| [whdpc.gov](https://whdpc.gov)                                                         | nan                                                                              | ❌  | 2026-04-07 |
 | [workwithusaid.gov](https://workwithusaid.gov)                                         | nan                                                                              | ❌  | 2026-04-07 |
+| [ipcc-wg3.gov](https://ipcc-wg3.gov)                                                   | nan                                                                              | ❌  | 2026-04-07 |
 | [internetforall.gov](https://internetforall.gov)                                       | nan                                                                              | ❌  | 2026-04-07 |
 | [live.gov](https://live.gov)                                                           | nan                                                                              | ✅  | 2026-04-02 |
 | [launch.gov](https://launch.gov)                                                       | nan                                                                              | ✅  | 2026-04-02 |
