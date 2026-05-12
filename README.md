@@ -9,11 +9,12 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
+| [thenamingcommission.gov](https://thenamingcommission.gov)                             | nan                                                                              | ❌  | 2026-05-12 |
+| [techcorps.gov](https://techcorps.gov)                                                 | nan                                                                              | ❌  | 2026-05-12 |
 | [fosteringthefuture.gov](https://fosteringthefuture.gov)                               | nan                                                                              | ✏️ | 2026-05-09 |
 | [ama.gov](https://ama.gov)                                                             | nan                                                                              | ✏️ | 2026-05-09 |
 | [dei.gov](https://dei.gov)                                                             | nan                                                                              | ✏️ | 2026-05-06 |
 | [covid.gov](https://covid.gov)                                                         | nan                                                                              | ✏️ | 2026-05-06 |
-| [coronavirus.gov](https://coronavirus.gov)                                             | nan                                                                              | ✏️ | 2026-05-06 |
 | [covidtests.gov](https://covidtests.gov)                                               | nan                                                                              | ✏️ | 2026-05-06 |
 | [covidtest.gov](https://covidtest.gov)                                                 | nan                                                                              | ✏️ | 2026-05-06 |
 | [americabydesign.gov](https://americabydesign.gov)                                     | nan                                                                              | ✏️ | 2026-05-06 |
@@ -21,20 +22,21 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [creators.gov](https://creators.gov)                                                   | nan                                                                              | ✏️ | 2026-05-06 |
 | [crypto.gov](https://crypto.gov)                                                       | nan                                                                              | ✏️ | 2026-05-06 |
 | [freedom.gov](https://freedom.gov)                                                     | nan                                                                              | ✏️ | 2026-05-06 |
-| [fosteringthefuturetogether.gov](https://fosteringthefuturetogether.gov)               | nan                                                                              | ✏️ | 2026-05-06 |
+| [fosteringthefuture.gov](https://fosteringthefuture.gov)                               | nan                                                                              | ✏️ | 2026-05-06 |
 | [deregulation.gov](https://deregulation.gov)                                           | nan                                                                              | ✏️ | 2026-05-06 |
+| [greathealthcare.gov](https://greathealthcare.gov)                                     | nan                                                                              | ✏️ | 2026-05-06 |
 | [passport.gov](https://passport.gov)                                                   | nan                                                                              | ✅  | 2026-05-06 |
 | [alien.gov](https://alien.gov)                                                         | nan                                                                              | ✏️ | 2026-05-06 |
 | [250.gov](https://250.gov)                                                             | nan                                                                              | ✏️ | 2026-05-06 |
-| [doge.gov](https://doge.gov)                                                           | nan                                                                              | ✏️ | 2026-05-06 |
 | [passports.gov](https://passports.gov)                                                 | nan                                                                              | ✅  | 2026-05-06 |
-| [fosteringthefuture.gov](https://fosteringthefuture.gov)                               | nan                                                                              | ✏️ | 2026-05-06 |
+| [earlycareers.gov](https://earlycareers.gov)                                           | nan                                                                              | ✏️ | 2026-05-06 |
+| [doge.gov](https://doge.gov)                                                           | nan                                                                              | ✏️ | 2026-05-06 |
 | [explore.gov](https://explore.gov)                                                     | nan                                                                              | ✏️ | 2026-05-06 |
+| [coronavirus.gov](https://coronavirus.gov)                                             | nan                                                                              | ✏️ | 2026-05-06 |
 | [budget.gov](https://budget.gov)                                                       | nan                                                                              | ✏️ | 2026-05-06 |
 | [bebest.gov](https://bebest.gov)                                                       | nan                                                                              | ✏️ | 2026-05-06 |
-| [earlycareers.gov](https://earlycareers.gov)                                           | nan                                                                              | ✏️ | 2026-05-06 |
 | [eop.gov](https://eop.gov)                                                             | nan                                                                              | ✏️ | 2026-05-06 |
-| [greathealthcare.gov](https://greathealthcare.gov)                                     | nan                                                                              | ✏️ | 2026-05-06 |
+| [fosteringthefuturetogether.gov](https://fosteringthefuturetogether.gov)               | nan                                                                              | ✏️ | 2026-05-06 |
 | [abd.gov](https://abd.gov)                                                             | nan                                                                              | ✏️ | 2026-05-05 |
 | [ai.gov](https://ai.gov)                                                               | nan                                                                              | ✏️ | 2026-05-05 |
 | [psa.gov](https://psa.gov)                                                             | nan                                                                              | ✏️ | 2026-05-02 |
