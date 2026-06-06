@@ -1,59 +1,61 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
+usvisabond.gov,Federal - Executive,,Department of the Treasury,Washington,DC,(blank),added,2026-06-06 07:16:37+00:00,1780730197.0,Bureau of the Fiscal Service
+soarc.gov,Federal - Executive,,Department of Defense,Washington,DC,(blank),added,2026-06-06 07:16:37+00:00,1780730197.0,
 trumpira.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-29 07:36:27+00:00,1780040187.0,White House Office
 itrd.gov,Federal - Executive,,Executive Office of the President,Washington,DC,security@nitrd.gov,deleted,2026-05-20 07:29:21+00:00,1779262161.0,Office of Science and Technology Policy
 nco.gov,Federal - Executive,,Executive Office of the President,Washington,DC,security@nitrd.gov,added,2026-05-14 07:14:52+00:00,1778742892.0,Office of Science and Technology Policy
 thenamingcommission.gov,Federal - Executive,,General Services Administration,Indianapolis,IN,gsa-vulnerability-reports@gsa.gov,deleted,2026-05-12 07:13:47+00:00,1778570027.0,The Confederate Base Naming Commission
 techcorps.gov,Federal - Executive,,Peace Corps,Washington,DC,(blank),deleted,2026-05-12 07:13:47+00:00,1778570027.0,
-ama.gov,Federal - Executive,,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,changed_old,2026-05-09 06:55:04+00:00,1778309704.0,Bureau of the Fiscal Service
 fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_old,2026-05-09 06:55:04+00:00,1778309704.0,White House Office
 ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,domainsecurity@treasury.gov,changed_new,2026-05-09 06:55:04+00:00,1778309704.0,
+ama.gov,Federal - Executive,,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,changed_old,2026-05-09 06:55:04+00:00,1778309704.0,Bureau of the Fiscal Service
 fosteringthefuture.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-09 06:55:04+00:00,1778309704.0,
-earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 crypto.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-crypto.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-freedom.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+fosteringthefuturetogether.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 fosteringthefuturetogether.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-freedom.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+creators.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+crypto.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+coronavirus.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 coronavirus.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 budget.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Office of Management and Budget
 budget.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Office of Management and Budget
-coronavirus.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 bebest.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 bebest.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 americabydesign.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 americabydesign.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-creators.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Office of Administration
+dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Office of Administration
+fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 250.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 alien.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 alien.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 250.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-covid.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 passports.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+covidtest.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 covidtest.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-covidtests.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 covidtests.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 doge.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
-deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
-fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-covid.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloud@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
-eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Office of Administration
-eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Office of Administration
-earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-covidtest.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 doge.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
-fosteringthefuturetogether.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+covid.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+covid.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+freedom.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+freedom.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 creators.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloud@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
+earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
+covidtests.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 ai.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-05 06:59:40+00:00,1777964380.0,Office of Science and Technology Policy
 ai.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-05 06:59:40+00:00,1777964380.0,Office of Science and Technology Policy
 abd.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-05 06:59:40+00:00,1777964380.0,White House Office
