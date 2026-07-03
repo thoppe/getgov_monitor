@@ -1,0 +1,5 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+wapa.gov,Federal - Executive,Department of Energy,Western Area Power Administration,Lakewood,CO,NETMGMT@wapa.gov,changed_old,2026-07-03 09:23:01+00:00,1783070581
+wapa.gov,Federal - Executive,Department of Energy,Western Area Power Administration,Lakewood,CO,NETSEC@wapa.gov,changed_new,2026-07-03 09:23:01+00:00,1783070581
+fraud.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank),changed_old,2026-07-03 09:23:01+00:00,1783070581
+fraud.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-03 09:23:01+00:00,1783070581
