@@ -9,15 +9,17 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
+| [nrel.gov](https://nrel.gov)                                                           | nan                                                                              | ❌  | 2026-08-05 |
+| [fpi.gov](https://fpi.gov)                                                             | nan                                                                              | ❌  | 2026-08-05 |
 | [ich.gov](https://ich.gov)                                                             | nan                                                                              | ✏️ | 2026-08-04 |
 | [visas.gov](https://visas.gov)                                                         | nan                                                                              | ✅  | 2026-08-01 |
 | [newmoney.gov](https://newmoney.gov)                                                   | nan                                                                              | ❌  | 2026-07-31 |
 | [hydrogen.gov](https://hydrogen.gov)                                                   | nan                                                                              | ✏️ | 2026-07-29 |
 | [bosque.gov](https://bosque.gov)                                                       | nan                                                                              | ❌  | 2026-07-22 |
-| [ndstudio.gov](https://ndstudio.gov)                                                   | nan                                                                              | ✏️ | 2026-07-21 |
-| [ostp.gov](https://ostp.gov)                                                           | nan                                                                              | ✏️ | 2026-07-21 |
 | [ustr.gov](https://ustr.gov)                                                           | nan                                                                              | ✏️ | 2026-07-21 |
 | [nds.gov](https://nds.gov)                                                             | nan                                                                              | ✏️ | 2026-07-21 |
+| [ndstudio.gov](https://ndstudio.gov)                                                   | nan                                                                              | ✏️ | 2026-07-21 |
+| [ostp.gov](https://ostp.gov)                                                           | nan                                                                              | ✏️ | 2026-07-21 |
 | [whitehouse.gov](https://whitehouse.gov)                                               | nan                                                                              | ✏️ | 2026-07-21 |
 | [bfem.gov](https://bfem.gov)                                                           | nan                                                                              | ❌  | 2026-07-17 |
 | [mmc.gov](https://mmc.gov)                                                             | nan                                                                              | ✏️ | 2026-07-14 |

@@ -1,21 +1,23 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
+nrel.gov,Federal - Executive,,Department of Energy,Golden,CO,CIRC@JC3.DOE.GOV,deleted,2026-08-05 08:39:48+00:00,1785919188.0,National Renewable Energy Laboratory
+fpi.gov,Federal - Executive,,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,deleted,2026-08-05 08:39:48+00:00,1785919188.0,Federal Prison Industries
 ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,usich@usich.gov,changed_new,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness
 ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,(blank),changed_old,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness
 visas.gov,Federal - Executive,,Department of State,Washington,DC,(blank),added,2026-08-01 08:24:38+00:00,1785572678.0,Bureau of Consular Affairs
 newmoney.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,deleted,2026-07-31 08:58:30+00:00,1785488310.0,
-hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-CMEIAccentureWebTeam@ee.doe.gov,changed_new,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
 hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,changed_old,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
+hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-CMEIAccentureWebTeam@ee.doe.gov,changed_new,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
 bosque.gov,Federal - Executive,,Department of Agriculture,Washington,DC,cyber.incident@usda.gov,deleted,2026-07-22 08:32:58+00:00,1784709178.0,Forest Service
-ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
-ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
-ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
 ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
+nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
 whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
 nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
 ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
+ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
 whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
 bfem.gov,Federal - Executive,,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,deleted,2026-07-17 08:13:52+00:00,1784276032.0,Bureau of the Fiscal Service
 mmc.gov,Federal - Executive,,Marine Mammal Commission,Bethesda,MD,pchin@mmc.gov,changed_old,2026-07-14 08:11:16+00:00,1784016676.0,
 mmc.gov,Federal - Executive,,Marine Mammal Commission,Bethesda,MD,mmc@mmc.gov,changed_new,2026-07-14 08:11:16+00:00,1784016676.0,
