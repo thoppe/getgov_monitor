@@ -1,24 +1,28 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
+example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),added,2026-09-01 13:54:57-06:00,1788292497.0,Council of Test Administration
+niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,deleted,2026-09-01 13:54:57-06:00,1788292497.0,Management Directorate
+example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),deleted,2026-09-01 10:49:24-06:00,1788281364.0,Council of Test Administration
+niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,added,2026-09-01 10:49:24-06:00,1788281364.0,Management Directorate
 niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,deleted,2026-09-01 11:19:59+00:00,1788261599.0,Management Directorate
 example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),added,2026-08-29 12:29:21+00:00,1788006561.0,Council of Test Administration
 usaseanconnect.gov,Federal - Executive,,Department of State,Washington,DC,VDPSubmission@state.gov,deleted,2026-08-26 06:53:32+00:00,1787727212.0,U.S. - ASEAN Connect
 safecar.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,deleted,2026-08-25 06:52:07+00:00,1787640727.0,U.S. Department of Transportation Office of the Chief Information Officer
-oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,robert.a.henry88.civ@mail.mil,changed_new,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
 oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,james.v.evans29.civ@mail.mil,changed_old,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
-asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,(blank),changed_old,2026-08-18 06:47:50+00:00,1787035670.0,
+oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,robert.a.henry88.civ@mail.mil,changed_new,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
 asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,Webmaster@asc.gov,changed_new,2026-08-18 06:47:50+00:00,1787035670.0,
-passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
-passport.gov,Federal - Executive,,Department of State,Washington,DC,(blank),changed_new,2026-08-14 07:35:58+00:00,1786692958.0,
-passports.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
+asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,(blank),changed_old,2026-08-18 06:47:50+00:00,1787035670.0,
 passports.gov,Federal - Executive,,Department of State,Washington,DC,(blank),changed_new,2026-08-14 07:35:58+00:00,1786692958.0,
+passports.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
+passport.gov,Federal - Executive,,Department of State,Washington,DC,(blank),changed_new,2026-08-14 07:35:58+00:00,1786692958.0,
+passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
 fdicig.gov,Federal - Executive,,Federal Deposit Insurance Corporation,Arlington,DC,NetworkOps@fdic.gov,deleted,2026-08-12 07:36:22+00:00,1786520182.0,
 usgcrp.gov,Federal,,U.S. Global Change Research Program,Washington,DC,(blank),deleted,2026-08-08 06:57:33+00:00,1786172253.0,
 usgcrp.gov,Federal,,U.S. Global Change Research Program,Washington,DC,(blank),changed_new,2026-08-07 07:19:48+00:00,1786087188.0,
 usgcrp.gov,Federal - Executive,,United States Global Change Research Program,Washington,DC,(blank),changed_old,2026-08-07 07:19:48+00:00,1786087188.0,U.S. Global Change Research Program
-usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,megan.mcgraw@usss.dhs.gov,changed_old,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
 mshastanddown.gov,Federal - Executive,,Department of Labor,Washington,DC,m-dolscirc@dol.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Mine Safety and Health Administration
-usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,lingping.kong@usss.dhs.gov,changed_new,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
+info.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 kids.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
+usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,megan.mcgraw@usss.dhs.gov,changed_old,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
 consumeraction.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 businessusa.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 afterschool.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,"Assistant Secretary for Planning and Evaluation, Office of the Secretary"
@@ -28,8 +32,8 @@ us.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vu
 sbst.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 fbf.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
 fedidcard.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
-info.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 globalchange.gov,Federal - Executive,,United States Global Change Research Program,Washington,DC,(blank),deleted,2026-08-06 08:40:55+00:00,1786005655.0,U.S. Global Change Research Program
+usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,lingping.kong@usss.dhs.gov,changed_new,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
 fpi.gov,Federal - Executive,,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,deleted,2026-08-05 08:39:48+00:00,1785919188.0,Federal Prison Industries
 nrel.gov,Federal - Executive,,Department of Energy,Golden,CO,CIRC@JC3.DOE.GOV,deleted,2026-08-05 08:39:48+00:00,1785919188.0,National Renewable Energy Laboratory
 ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,(blank),changed_old,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness

@@ -9,19 +9,23 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 
 | Domain Name                                                                            | Agency                                                                           |    | date       |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---|:-----------|
+| [example.gov](https://example.gov)                                                     | nan                                                                              | ✅  | 2026-09-01 |
+| [niem.gov](https://niem.gov)                                                           | nan                                                                              | ❌  | 2026-09-01 |
+| [example.gov](https://example.gov)                                                     | nan                                                                              | ❌  | 2026-09-01 |
+| [niem.gov](https://niem.gov)                                                           | nan                                                                              | ✅  | 2026-09-01 |
 | [niem.gov](https://niem.gov)                                                           | nan                                                                              | ❌  | 2026-09-01 |
 | [example.gov](https://example.gov)                                                     | nan                                                                              | ✅  | 2026-08-29 |
 | [usaseanconnect.gov](https://usaseanconnect.gov)                                       | nan                                                                              | ❌  | 2026-08-26 |
 | [safecar.gov](https://safecar.gov)                                                     | nan                                                                              | ❌  | 2026-08-25 |
 | [oea.gov](https://oea.gov)                                                             | nan                                                                              | ✏️ | 2026-08-25 |
 | [asc.gov](https://asc.gov)                                                             | nan                                                                              | ✏️ | 2026-08-18 |
-| [passport.gov](https://passport.gov)                                                   | nan                                                                              | ✏️ | 2026-08-14 |
 | [passports.gov](https://passports.gov)                                                 | nan                                                                              | ✏️ | 2026-08-14 |
+| [passport.gov](https://passport.gov)                                                   | nan                                                                              | ✏️ | 2026-08-14 |
 | [fdicig.gov](https://fdicig.gov)                                                       | nan                                                                              | ❌  | 2026-08-12 |
 | [usgcrp.gov](https://usgcrp.gov)                                                       | nan                                                                              | ❌  | 2026-08-08 |
 | [usgcrp.gov](https://usgcrp.gov)                                                       | nan                                                                              | ✏️ | 2026-08-07 |
 | [mshastanddown.gov](https://mshastanddown.gov)                                         | nan                                                                              | ❌  | 2026-08-06 |
-| [usss.gov](https://usss.gov)                                                           | nan                                                                              | ✏️ | 2026-08-06 |
+| [info.gov](https://info.gov)                                                           | nan                                                                              | ❌  | 2026-08-06 |
 | [kids.gov](https://kids.gov)                                                           | nan                                                                              | ❌  | 2026-08-06 |
 | [consumeraction.gov](https://consumeraction.gov)                                       | nan                                                                              | ❌  | 2026-08-06 |
 | [businessusa.gov](https://businessusa.gov)                                             | nan                                                                              | ❌  | 2026-08-06 |
@@ -32,8 +36,8 @@ Additions and removals are posted to [@fed-us-domain-bot.bsky.social](https://bs
 | [sbst.gov](https://sbst.gov)                                                           | nan                                                                              | ❌  | 2026-08-06 |
 | [fbf.gov](https://fbf.gov)                                                             | nan                                                                              | ❌  | 2026-08-06 |
 | [fedidcard.gov](https://fedidcard.gov)                                                 | nan                                                                              | ❌  | 2026-08-06 |
-| [info.gov](https://info.gov)                                                           | nan                                                                              | ❌  | 2026-08-06 |
 | [globalchange.gov](https://globalchange.gov)                                           | nan                                                                              | ❌  | 2026-08-06 |
+| [usss.gov](https://usss.gov)                                                           | nan                                                                              | ✏️ | 2026-08-06 |
 | [fpi.gov](https://fpi.gov)                                                             | nan                                                                              | ❌  | 2026-08-05 |
 | [nrel.gov](https://nrel.gov)                                                           | nan                                                                              | ❌  | 2026-08-05 |
 | [ich.gov](https://ich.gov)                                                             | nan                                                                              | ✏️ | 2026-08-04 |
