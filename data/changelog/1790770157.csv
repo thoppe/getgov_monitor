@@ -1,0 +1,6 @@
+Domain Name,Domain Type,Organization Name,Suborganization Name,City,State,Security Contact Email,modification,commit_datetime,commit_date
+fpdf.gov,Federal - Executive,General Services Administration,,Washington,DC,gsa-vulnerability-reports@gsa.gov,added,2026-09-30 12:09:17+00:00,1790770157
+bioethics.gov,Federal - Executive,Department of Health and Human Services,"President's Council on Bioethics, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-09-30 12:09:17+00:00,1790770157
+girlshealth.gov,Federal - Executive,Department of Health and Human Services,"Office of Public Health and Science, Office on Women's Health",Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-09-30 12:09:17+00:00,1790770157
+onhir.gov,Federal - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Washington,DC,bia_cirt@bia.gov,changed_old,2026-09-30 12:09:17+00:00,1790770157
+onhir.gov,Federal - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Washington,DC,security@doi.gov,changed_new,2026-09-30 12:09:17+00:00,1790770157
