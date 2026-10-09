@@ -1,17 +1,19 @@
 Domain Name,Domain Type,Agency,Organization,City,State,Security Contact Email,modification,commit_datetime,commit_date,Suborganization Name
-wh28olympics.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,(blank),added,2026-10-06 13:00:04+00:00,1791291604.0,Management Directorate
+swpc.gov,Federal - Executive,,Small Business Administration,Washington,DC,CISO@sba.gov,added,2026-10-09 12:49:30+00:00,1791550170.0,
+seafood.gov,Federal - Executive,,Department of Agriculture,Washington,DC,(blank),added,2026-10-09 12:49:30+00:00,1791550170.0,Office of Communications
 pandemicflu.gov,Federal - Executive,,Department of Health and Human Services,Atlanta,GA,responsibledisclosure@hhs.gov,deleted,2026-10-06 13:00:04+00:00,1791291604.0,Centers for Disease Control and Prevention
+wh28olympics.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,(blank),added,2026-10-06 13:00:04+00:00,1791291604.0,Management Directorate
 si.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-10-03 11:18:46+00:00,1791026326.0,
 si.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_new,2026-10-03 11:18:46+00:00,1791026326.0,White House Office
-si.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-10-02 12:07:22+00:00,1790942842.0,
 whitehousefellows.gov,Federal - Executive,,Office of Personnel Management,"Washington, DC",DC,(blank),added,2026-10-02 12:07:22+00:00,1790942842.0,
+si.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-10-02 12:07:22+00:00,1790942842.0,
 crimesolutions.gov,Federal - Executive,,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,deleted,2026-10-01 12:43:09+00:00,1790858589.0,Office of Justice Programs
 pcast.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,deleted,2026-10-01 12:43:09+00:00,1790858589.0,
-bioethics.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-09-30 12:09:17+00:00,1790770157.0,"President's Council on Bioethics, Office of the Secretary"
-onhir.gov,Federal - Executive,,Department of the Interior,Washington,DC,security@doi.gov,changed_new,2026-09-30 12:09:17+00:00,1790770157.0,Office of Navajo and Hopi Indian Relocation
 girlshealth.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-09-30 12:09:17+00:00,1790770157.0,"Office of Public Health and Science, Office on Women's Health"
 fpdf.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,added,2026-09-30 12:09:17+00:00,1790770157.0,
+bioethics.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-09-30 12:09:17+00:00,1790770157.0,"President's Council on Bioethics, Office of the Secretary"
 onhir.gov,Federal - Executive,,Department of the Interior,Washington,DC,bia_cirt@bia.gov,changed_old,2026-09-30 12:09:17+00:00,1790770157.0,Office of Navajo and Hopi Indian Relocation
+onhir.gov,Federal - Executive,,Department of the Interior,Washington,DC,security@doi.gov,changed_new,2026-09-30 12:09:17+00:00,1790770157.0,Office of Navajo and Hopi Indian Relocation
 owc.gov,Federal - Executive,,.gov Administration,Arlington,VA,julianen@owc.gov,changed_new,2026-09-24 11:21:17+00:00,1790248877.0,.gov Administration
 owc.gov,Federal - Executive,,.gov Administration,Arlington,VA,(blank),changed_old,2026-09-24 11:21:17+00:00,1790248877.0,.gov Administration
 trumptv.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,added,2026-09-24 11:21:17+00:00,1790248877.0,White House Office
@@ -19,157 +21,157 @@ smartgrid.gov,Federal - Executive,,Department of Energy,Washington,DC,aws.master
 app.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,added,2026-09-23 11:03:21+00:00,1790161401.0,White House Office
 scijinks.gov,Federal - Executive,,National Aeronautics and Space Administration,Huntsville,AL,soc@nasa.gov,deleted,2026-09-12 10:19:54+00:00,1789208394.0,Jet Propulsion Lab Communications and Education Directorate
 mypay.gov,Federal - Executive,,Department of Defense,Indianapolis,IN,(blank),deleted,2026-09-11 10:52:04+00:00,1789123924.0,Defense Finance and Accounting Service
+fedjobs.gov,Federal - Executive,,Office of Personnel Management,"Washington, DC",DC,CyberSolutions@opm.gov,deleted,2026-09-10 10:54:23+00:00,1789037663.0,
 governmentjobs.gov,Federal - Executive,,Office of Personnel Management,"Washington, DC",DC,CyberSolutions@opm.gov,deleted,2026-09-10 10:54:23+00:00,1789037663.0,
 unlocktalent.gov,Federal - Executive,,Office of Personnel Management,"Washington, DC",DC,CyberSolutions@opm.gov,deleted,2026-09-10 10:54:23+00:00,1789037663.0,
-fedjobs.gov,Federal - Executive,,Office of Personnel Management,"Washington, DC",DC,CyberSolutions@opm.gov,deleted,2026-09-10 10:54:23+00:00,1789037663.0,
 federalrules.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
 judicialconference.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
-judicialconference.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
-pacer.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
-usc.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
-federalcourts.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
 federalrules.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
 federalprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
-usprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
-bankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
-usprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
-pacer.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
-usc.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+federalcourts.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
 bankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
 federalprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
 federalcourts.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
-usbankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+usprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+bankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
+usc.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
+pacer.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+pacer.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
+judicialconference.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
 usbankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
+usbankruptcy.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+usc.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,security@uscourts.gov,changed_new,2026-09-09 10:57:31+00:00,1788951451.0,
+usprobation.gov,Federal - Judicial,,Administrative Office of the United States Courts,Washington,DC,(blank),changed_old,2026-09-09 10:57:31+00:00,1788951451.0,
 usdapii.gov,Federal - Executive,,Department of Agriculture,Washington,DC,cyber.incidents@usda.gov,deleted,2026-09-05 10:12:29+00:00,1788603149.0,
-stopransomware.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,vulnerability.disclosure.prog@hq.dhs.gov,changed_old,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
+arcades.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-09-02 10:54:21+00:00,1788346461.0,White House Office
+trumpjobs.gov,Federal - Executive,,Department of Labor,Washington,DC,(blank),added,2026-09-02 10:54:21+00:00,1788346461.0,
 cisa.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,irt@cisa.dhs.gov,changed_new,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
+stopransomware.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,vulnerability.disclosure.prog@hq.dhs.gov,changed_old,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
+stopransomware.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,irt@cisa.dhs.gov,changed_new,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
 cisa.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,postmaster@dhs.gov,changed_old,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
 arcade.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-09-02 10:54:21+00:00,1788346461.0,White House Office
-arcades.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-09-02 10:54:21+00:00,1788346461.0,White House Office
-stopransomware.gov,Federal - Executive,,Department of Homeland Security,Arlington,VA,irt@cisa.dhs.gov,changed_new,2026-09-02 10:54:21+00:00,1788346461.0,Cybersecurity and Infrastructure Security Agency
-trumpjobs.gov,Federal - Executive,,Department of Labor,Washington,DC,(blank),added,2026-09-02 10:54:21+00:00,1788346461.0,
-niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,deleted,2026-09-01 13:54:57-06:00,1788292497.0,Management Directorate
 example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),added,2026-09-01 13:54:57-06:00,1788292497.0,Council of Test Administration
+niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,deleted,2026-09-01 13:54:57-06:00,1788292497.0,Management Directorate
 niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,added,2026-09-01 10:49:24-06:00,1788281364.0,Management Directorate
 example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),deleted,2026-09-01 10:49:24-06:00,1788281364.0,Council of Test Administration
 niem.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,postmaster@dhs.gov,deleted,2026-09-01 11:19:59+00:00,1788261599.0,Management Directorate
 example.gov,Federal - Executive,,.gov Administration,Ashburn,VA,(blank),added,2026-08-29 12:29:21+00:00,1788006561.0,Council of Test Administration
 usaseanconnect.gov,Federal - Executive,,Department of State,Washington,DC,VDPSubmission@state.gov,deleted,2026-08-26 06:53:32+00:00,1787727212.0,U.S. - ASEAN Connect
 safecar.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,deleted,2026-08-25 06:52:07+00:00,1787640727.0,U.S. Department of Transportation Office of the Chief Information Officer
-oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,james.v.evans29.civ@mail.mil,changed_old,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
 oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,robert.a.henry88.civ@mail.mil,changed_new,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
-asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,(blank),changed_old,2026-08-18 06:47:50+00:00,1787035670.0,
+oea.gov,Federal - Executive,,Department of Defense,Arlington,VA,james.v.evans29.civ@mail.mil,changed_old,2026-08-25 06:52:07+00:00,1787640727.0,Office of Economic Adjustment
 asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,Webmaster@asc.gov,changed_new,2026-08-18 06:47:50+00:00,1787035670.0,
-passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
+asc.gov,Federal - Executive,,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Washington,DC,(blank),changed_old,2026-08-18 06:47:50+00:00,1787035670.0,
 passport.gov,Federal - Executive,,Department of State,Washington,DC,(blank),changed_new,2026-08-14 07:35:58+00:00,1786692958.0,
 passports.gov,Federal - Executive,,Department of State,Washington,DC,(blank),changed_new,2026-08-14 07:35:58+00:00,1786692958.0,
 passports.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
+passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-08-14 07:35:58+00:00,1786692958.0,White House Office
 fdicig.gov,Federal - Executive,,Federal Deposit Insurance Corporation,Arlington,DC,NetworkOps@fdic.gov,deleted,2026-08-12 07:36:22+00:00,1786520182.0,
 usgcrp.gov,Federal,,U.S. Global Change Research Program,Washington,DC,(blank),deleted,2026-08-08 06:57:33+00:00,1786172253.0,
-usgcrp.gov,Federal,,U.S. Global Change Research Program,Washington,DC,(blank),changed_new,2026-08-07 07:19:48+00:00,1786087188.0,
 usgcrp.gov,Federal - Executive,,United States Global Change Research Program,Washington,DC,(blank),changed_old,2026-08-07 07:19:48+00:00,1786087188.0,U.S. Global Change Research Program
-accessibility.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
+usgcrp.gov,Federal,,U.S. Global Change Research Program,Washington,DC,(blank),changed_new,2026-08-07 07:19:48+00:00,1786087188.0,
 usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,lingping.kong@usss.dhs.gov,changed_new,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
-mshastanddown.gov,Federal - Executive,,Department of Labor,Washington,DC,m-dolscirc@dol.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Mine Safety and Health Administration
+accessibility.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
+usagov.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
+usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,megan.mcgraw@usss.dhs.gov,changed_old,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
+sbst.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 globalchange.gov,Federal - Executive,,United States Global Change Research Program,Washington,DC,(blank),deleted,2026-08-06 08:40:55+00:00,1786005655.0,U.S. Global Change Research Program
-info.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
-kids.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 afterschool.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,"Assistant Secretary for Planning and Evaluation, Office of the Secretary"
 businessusa.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
-consumeraction.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 fedidcard.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
-sbst.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
+mshastanddown.gov,Federal - Executive,,Department of Labor,Washington,DC,m-dolscirc@dol.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Mine Safety and Health Administration
+consumeraction.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 us.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
-usss.gov,Federal - Executive,,Department of Homeland Security,Washington,DC,megan.mcgraw@usss.dhs.gov,changed_old,2026-08-06 08:40:55+00:00,1786005655.0,United States Secret Service
+info.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
+kids.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 fbf.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Office of GSA IT
-usagov.gov,Federal - Executive,,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-08-06 08:40:55+00:00,1786005655.0,Federal Acquisition Service
 fpi.gov,Federal - Executive,,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,deleted,2026-08-05 08:39:48+00:00,1785919188.0,Federal Prison Industries
 nrel.gov,Federal - Executive,,Department of Energy,Golden,CO,CIRC@JC3.DOE.GOV,deleted,2026-08-05 08:39:48+00:00,1785919188.0,National Renewable Energy Laboratory
-ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,(blank),changed_old,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness
 ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,usich@usich.gov,changed_new,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness
+ich.gov,Federal - Executive,,U.S. Interagency Council on Homelessness,District Heights,MD,(blank),changed_old,2026-08-04 08:41:21+00:00,1785832881.0,United States Interagency Council on Homelessness
 visas.gov,Federal - Executive,,Department of State,Washington,DC,(blank),added,2026-08-01 08:24:38+00:00,1785572678.0,Bureau of Consular Affairs
 newmoney.gov,Federal - Executive,,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,deleted,2026-07-31 08:58:30+00:00,1785488310.0,
-hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-CMEIAccentureWebTeam@ee.doe.gov,changed_new,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
 hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,changed_old,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
+hydrogen.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-CMEIAccentureWebTeam@ee.doe.gov,changed_new,2026-07-29 08:44:54+00:00,1785314694.0,Research and Special Programs Administration / Volpe
 bosque.gov,Federal - Executive,,Department of Agriculture,Washington,DC,cyber.incident@usda.gov,deleted,2026-07-22 08:32:58+00:00,1784709178.0,Forest Service
-nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
-ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
 ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+nds.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
 ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
+ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
 ostp.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of Science and Technology Policy
 ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
-ndstudio.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+whitehouse.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-21 08:33:08+00:00,1784622788.0,White House Office
+ustr.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-21 08:33:08+00:00,1784622788.0,Office of the United States Trade Representative
 bfem.gov,Federal - Executive,,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,deleted,2026-07-17 08:13:52+00:00,1784276032.0,Bureau of the Fiscal Service
-mmc.gov,Federal - Executive,,Marine Mammal Commission,Bethesda,MD,mmc@mmc.gov,changed_new,2026-07-14 08:11:16+00:00,1784016676.0,
 mmc.gov,Federal - Executive,,Marine Mammal Commission,Bethesda,MD,pchin@mmc.gov,changed_old,2026-07-14 08:11:16+00:00,1784016676.0,
-macpac.gov,Federal - Legislative,,Medicaid and CHIP Payment and Access Commission,Washington,DC,IT.Support@macpac.gov,changed_old,2026-07-11 08:00:20+00:00,1783756820.0,Medicaid and CHIP Payment and Access Commission
+mmc.gov,Federal - Executive,,Marine Mammal Commission,Bethesda,MD,mmc@mmc.gov,changed_new,2026-07-14 08:11:16+00:00,1784016676.0,
 macpac.gov,Federal - Legislative,,Medicaid and CHIP Payment and Access Commission,Washington,DC,IT.Support@macpac.gov,changed_new,2026-07-11 08:00:20+00:00,1783756820.0,
-energysaver.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
-dol-esa.gov,Federal - Executive,,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov,deleted,2026-07-10 09:40:40+00:00,1783676440.0,
-homeenergyscore.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
-solardecathlon.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
-solardecathlon.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
-biomassboard.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
+macpac.gov,Federal - Legislative,,Medicaid and CHIP Payment and Access Commission,Washington,DC,IT.Support@macpac.gov,changed_old,2026-07-11 08:00:20+00:00,1783756820.0,Medicaid and CHIP Payment and Access Commission
 biomassboard.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
 energysaver.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
 energysavers.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
+biomassboard.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
+homeenergyscore.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
 energysavers.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
 homeenergyscore.gov,Federal - Executive,,Department of Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
+energysaver.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
+solardecathlon.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_new,2026-07-10 09:40:40+00:00,1783676440.0,Office of Critical Minerals and Energy Innovation
 digitaldashboard.gov,Federal - Executive,,General Services Administration,DC,DC,gsa-vulnerability-reports@gsa.gov,deleted,2026-07-10 09:40:40+00:00,1783676440.0,Office of GSA IT
-wapa.gov,Federal - Executive,,Department of Energy,Lakewood,CO,NETMGMT@wapa.gov,changed_old,2026-07-03 09:23:01+00:00,1783070581.0,Western Area Power Administration
-fraud.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-03 09:23:01+00:00,1783070581.0,White House Office
-fraud.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-07-03 09:23:01+00:00,1783070581.0,White House Office
+dol-esa.gov,Federal - Executive,,Department of Labor,Washington,DC,m-DOLCSIRC@dol.gov,deleted,2026-07-10 09:40:40+00:00,1783676440.0,
+solardecathlon.gov,Federal - Executive,,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,changed_old,2026-07-10 09:40:40+00:00,1783676440.0,Office of Energy Efficiency and Renewable Energy
 wapa.gov,Federal - Executive,,Department of Energy,Lakewood,CO,NETSEC@wapa.gov,changed_new,2026-07-03 09:23:01+00:00,1783070581.0,Western Area Power Administration
-distracteddriving.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,deleted,2026-07-01 07:46:11+00:00,1782891971.0,National Highway Traffic Safety Administration
+wapa.gov,Federal - Executive,,Department of Energy,Lakewood,CO,NETMGMT@wapa.gov,changed_old,2026-07-03 09:23:01+00:00,1783070581.0,Western Area Power Administration
+fraud.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-07-03 09:23:01+00:00,1783070581.0,White House Office
+fraud.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-03 09:23:01+00:00,1783070581.0,White House Office
 pci.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-07-01 07:46:11+00:00,1782891971.0,
 pci.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-07-01 07:46:11+00:00,1782891971.0,
-postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,NCPIPManagement@usps.gov,changed_new,2026-06-30 07:33:33+00:00,1782804813.0,
+distracteddriving.gov,Federal - Executive,,Department of Transportation,Washington,DC,DOT-Cyber-Reporting@dot.gov,deleted,2026-07-01 07:46:11+00:00,1782891971.0,National Highway Traffic Safety Administration
 myusps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,NCPIPManagement@usps.gov,changed_new,2026-06-30 07:33:33+00:00,1782804813.0,
-uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
-myusps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
 uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,NCPIPManagement@usps.gov,changed_new,2026-06-30 07:33:33+00:00,1782804813.0,
+myusps.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
+postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
+uspsinformeddelivery.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
 uspsinnovates.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
 uspsinnovates.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,NCPIPManagement@usps.gov,changed_new,2026-06-30 07:33:33+00:00,1782804813.0,
-postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,(blank),changed_old,2026-06-30 07:33:33+00:00,1782804813.0,
+postoffice.gov,Federal - Executive,,United States Postal Service,Raleigh,NC,NCPIPManagement@usps.gov,changed_new,2026-06-30 07:33:33+00:00,1782804813.0,
 fraud.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-06-26 07:33:03+00:00,1782459183.0,White House Office
 jamesmadison.gov,Federal - Executive,,James Madison Memorial Fellowship Foundation,Alexandria,VA,kevin.hite@smeinc.net,changed_old,2026-06-19 08:10:09+00:00,1781856609.0,
 jamesmadison.gov,Federal - Executive,,James Madison Memorial Fellowship Foundation,Alexandria,VA,kevin.hite@jamesmadison.gov,changed_new,2026-06-19 08:10:09+00:00,1781856609.0,
-ssa.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,soc@ssa.gov,changed_new,2026-06-16 08:13:43+00:00,1781597623.0,
 ssa.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-06-16 08:13:43+00:00,1781597623.0,
 segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,soc@ssa.gov,changed_new,2026-06-16 08:13:43+00:00,1781597623.0,
-socialsecurity.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,soc@ssa.gov,changed_new,2026-06-16 08:13:43+00:00,1781597623.0,
+ssa.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,soc@ssa.gov,changed_new,2026-06-16 08:13:43+00:00,1781597623.0,
 socialsecurity.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-06-16 08:13:43+00:00,1781597623.0,
 segurosocial.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,joe.cunningham@ssa.gov,changed_old,2026-06-16 08:13:43+00:00,1781597623.0,
-ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,domainsecurity@treasury.gov,changed_old,2026-06-15 08:22:03+00:00,1781511723.0,
+socialsecurity.gov,Federal - Executive,,Social Security Administration,Baltimore,MD,soc@ssa.gov,changed_new,2026-06-16 08:13:43+00:00,1781597623.0,
 ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,cyber.incidents@usda.gov,changed_new,2026-06-15 08:22:03+00:00,1781511723.0,
-uscpoig.gov,Federal - Legislative,,"U.S. Capitol Police, Office of the Inspector General",Washington,DC,(blank),added,2026-06-13 07:31:54+00:00,1781335914.0,
+ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,domainsecurity@treasury.gov,changed_old,2026-06-15 08:22:03+00:00,1781511723.0,
 aiworkforcehub.gov,Federal - Executive,,Department of Labor,Washington,DC,(blank),added,2026-06-13 07:31:54+00:00,1781335914.0,
+uscpoig.gov,Federal - Legislative,,"U.S. Capitol Police, Office of the Inspector General",Washington,DC,(blank),added,2026-06-13 07:31:54+00:00,1781335914.0,
 itap.gov,Federal - Executive,,Department of Agriculture,Beltsville,MD,cyber.incidents@usda.gov,deleted,2026-06-11 08:02:49+00:00,1781164969.0,Agricultural Research Service
-visforvaccinated.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-06-09 07:30:02+00:00,1780990202.0,Office of the Assistant Secretary for Health
 whatcanyoudocampaign.gov,Federal - Executive,,Department of Labor,Washington,DC,(blank),added,2026-06-09 07:30:02+00:00,1780990202.0,
+visforvaccinated.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,deleted,2026-06-09 07:30:02+00:00,1780990202.0,Office of the Assistant Secretary for Health
 freshempire.gov,Federal - Executive,,Department of Health and Human Services,Silver Spring,MD,ResponsibleDisclosure@hhs.gov,deleted,2026-06-09 07:30:02+00:00,1780990202.0,Food and Drug Administration
-soarc.gov,Federal - Executive,,Department of Defense,Washington,DC,(blank),added,2026-06-06 07:16:37+00:00,1780730197.0,
 usvisabond.gov,Federal - Executive,,Department of the Treasury,Washington,DC,(blank),added,2026-06-06 07:16:37+00:00,1780730197.0,Bureau of the Fiscal Service
+soarc.gov,Federal - Executive,,Department of Defense,Washington,DC,(blank),added,2026-06-06 07:16:37+00:00,1780730197.0,
 trumpira.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-29 07:36:27+00:00,1780040187.0,White House Office
 itrd.gov,Federal - Executive,,Executive Office of the President,Washington,DC,security@nitrd.gov,deleted,2026-05-20 07:29:21+00:00,1779262161.0,Office of Science and Technology Policy
 nco.gov,Federal - Executive,,Executive Office of the President,Washington,DC,security@nitrd.gov,added,2026-05-14 07:14:52+00:00,1778742892.0,Office of Science and Technology Policy
 thenamingcommission.gov,Federal - Executive,,General Services Administration,Indianapolis,IN,gsa-vulnerability-reports@gsa.gov,deleted,2026-05-12 07:13:47+00:00,1778570027.0,The Confederate Base Naming Commission
 techcorps.gov,Federal - Executive,,Peace Corps,Washington,DC,(blank),deleted,2026-05-12 07:13:47+00:00,1778570027.0,
 ama.gov,Federal - Executive,,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,changed_old,2026-05-09 06:55:04+00:00,1778309704.0,Bureau of the Fiscal Service
-ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,domainsecurity@treasury.gov,changed_new,2026-05-09 06:55:04+00:00,1778309704.0,
 fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_old,2026-05-09 06:55:04+00:00,1778309704.0,White House Office
 fosteringthefuture.gov,Federal - Executive,,Department of Health and Human Services,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-09 06:55:04+00:00,1778309704.0,
+ama.gov,Federal - Executive,,Department of Agriculture,Washington,DC,domainsecurity@treasury.gov,changed_new,2026-05-09 06:55:04+00:00,1778309704.0,
 dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 dei.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloud@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
 passports.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-alien.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 doge.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
+earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+doge.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
 earlycareers.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,Office of Administration
 explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
@@ -177,7 +179,7 @@ eop.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PIT
 explore.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 fosteringthefuturetogether.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-doge.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
+deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
 fosteringthefuturetogether.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 freedom.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
@@ -204,9 +206,9 @@ aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,
 fosteringthefuture.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 250.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 250.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+alien.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
+passport.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),added,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 aliens.gov,Federal - Executive,,Executive Office of the President,Washington,DC,(blank),changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-greathealthcare.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
-deregulation.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-06 07:11:14+00:00,1778051474.0,Department of Government Efficiency
 creators.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-06 07:11:14+00:00,1778051474.0,White House Office
 ai.gov,Federal - Executive,,Executive Office of the President,Washington,DC,PITC-Defense@eop.gov,changed_new,2026-05-05 06:59:40+00:00,1777964380.0,Office of Science and Technology Policy
 ai.gov,Federal - Executive,,Executive Office of the President,Washington,DC,dl.eop.cloudadmin@eop.gov,changed_old,2026-05-05 06:59:40+00:00,1777964380.0,Office of Science and Technology Policy
